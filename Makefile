@@ -6,6 +6,7 @@ pdf:
 	  --filter pandoc-citeproc \
 	  --csl apa.csl \
 	  --pdf-engine=xelatex \
+	  --table-of-contents \
 	  --output diss.pdf
 
 docx:
@@ -14,4 +15,5 @@ docx:
 	  --filter pandoc-citeproc \
 	  --csl apa.csl \
 	  --pdf-engine=xelatex \
+	  --table-of-contents \
 	  --output diss.docx

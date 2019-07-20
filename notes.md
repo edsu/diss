@@ -10,3 +10,6 @@ somewhere in the intro.  The practices of appraisal shape the data that are
 collected, and similarly will impact any kind of statistical analysis that is
 done on the resulting data. I think pointing at Critical Data Studies here will
 be important.
+
+Move the discussion of governmentality to the beginning of the literature review
+section to introduce the idea and foreshadow a discussion at the end.

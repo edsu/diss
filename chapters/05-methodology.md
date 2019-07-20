@@ -1,6 +1,6 @@
 \pagebreak
 
-## V. Methodology
+# III. Methodology
 
 Given these broad, interrelated topic areas for researching appraisal practice
 in web archives from a Science and Technology Studies perspective I am planning

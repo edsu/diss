@@ -1,6 +1,6 @@
 \pagebreak
 
-## I. Introduction
+# I. Introduction
 
 For a moment try to imagine your day to day life without the web and the underlying Internet. It is difficult to do because the web is a communications infrastructure that is completely enmeshed in global systems of capital, governance, science and culture. However, somewhat paradoxically, we experience the loss of the web on a daily basis, every time we click a link only to get a *404 Not Found* error. The architectural precarity of our "World Wide Web" is constantly being made visible to us. These quotidian breakdowns are so common that we have come to expect, or even anticipate them. The continual loss of the web and its broken links become part of the infrastructural background in the metaphor of *The Cloud* [@Hu:2015]. But what remains of this backgrounding, or evaporation, is an archival anxiety that asks: What will we remember of our current epoch? Are we really living in what will be known as a *digital dark age*? [@Kuny:1997 ; @Hedstrom:1991] Or perhaps we are living in the ruins of a digital dark age right now?
 
