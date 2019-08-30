@@ -1,4 +1,4 @@
 \pagebreak
 
-# XXX. References
+# IV. References
 
