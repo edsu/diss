@@ -36,3 +36,8 @@ digital forensics community get applied in digital preservation systems. This
 reminds me quite a bit of how diplomatics are used in projects like the
 InterPARES project have focused on authenticity.
 
+# Thu Sep  5 11:30:12 EDT 2019
+
+I submitted the latest revision of the methods section to my committee to prep
+for the proposal defense in two weeks. I need to develop some slides and
+practice my talk.
