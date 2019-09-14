@@ -13,15 +13,46 @@
     <link rel="stylesheet" href="css/theme/white.css" id="theme">
     <link rel="stylesheet" href="lib/css/zenburn.css">
     <style>
+
       a {
         text-decoration: none;
       }
+
       .reveal figcaption {
         font-size: 28pt;
       }
+
       .citations {
         text-align: left;
       }
+
+      html.cover .slide-background {
+        opacity: 0.1 !important;
+      }
+
+      .columns {
+        display: flex;
+      }
+
+      .column {
+        flex: 1;
+      }
+
+      .column hr {
+        width: 80%;
+      }
+
+      .reveal td {
+        text-align: left;
+        font-family: Terminal;
+        font-size: smaller;
+        padding-right: 40px;
+      }
+
+      .spaced-list li {
+        padding: 15px 0px 15px 0px;
+      }
+
     </style>
     <script>
       var link = document.createElement( 'link' );
@@ -42,11 +73,11 @@
       <!-- Any section element inside of this container is displayed as a slide -->
       <div class="slides">
 
-        <section>
+        <section data-background="images/www.gif" data-state="cover">
           <h2>Appraisal Practices<br>in Web Archives</h2>
           <br>
           <br>
-          <p style="font-size: 18pt">
+          <p style="font-size: 18pt; font-weight: bold;">
 
             Ed Summers<br>
             University of Maryland<br>
@@ -59,7 +90,6 @@
         <section>
           <h2>Overview</h2>
           <ul>
-            <li class="fragment">Web Archives</li>
             <li class="fragment">Appraisal in Web Archives</li>
             <li class="fragment">Research Questions</li>
             <li class="fragment">Methodology</li>
@@ -131,7 +161,7 @@
           510 billion / 130 trillion URLs = 0.39%
           <br>
           <br>
-          <div class="fragment">?</div>
+          <div class="fragment"><em>???</em></div>
           <br>
           <p style="font-size: 24pt;">
           Alpert, J. and Hajaj, N. (2008). <a href="https://googleblog.blogspot.com/2008/07/we-knew-web-was-big.html">We knew the web was big...</a>
@@ -151,7 +181,7 @@
           <figure>
             <img alt="NYTimes" src="images/wayback2.png">
             <figcaption>
-              Archival coverage of the NYTimes homepage in 2016.
+              Coverage of the New York Times homepage in 2016
             </figcaption>
             <aside class="notes">
               The Internet Archive also uses automated agents, spiders or
@@ -167,7 +197,7 @@
           <figure>
             <img alt="VK" src="images/wayback.png">
             <figcaption>
-              Archival coverage of Igor Strelkov's VK profile in 2014.
+              Archival coverage of Igor Strelkov's VK profile in 2014
             </figcaption>
           </figure>
           <aside class="notes">
@@ -185,203 +215,221 @@
           </aside>
         </section>
 
-         <section>
-          <blockquote style="font-size: 24pt;">
-            "The hard drive of the world is not big enough."<br>
-            <br>
-            – <a href="https://www.youtube.com/watch?v=HEvyHf7xJa0&feature=youtu.be&t=10m38s">Luciano Floridi</a>
-          </blockquote>
-          <aside class="notes">
-            <p>
-            According to IDC’s projections, the size of global storage
-            capacity relative to the amount of data generated is expected
-            to decline by half by 2020 (from 33% to 15%). Efficient use of
-            available space will, therefore, be crucial.
-            </p>
-            <p>
-            David Rosenthal has predicted that by 2018 it will cost more than
-            the total GWP (Gross World Product) to store that year's data on
-            Amazon S3.
-            </p>
-          </aside>
-        </section>
-
         <section style="text-align: center;">
           <div style="text-align: left; width: 70%; margin-left: 15%;">
           <h2>Appraisal</h2>
           <p>The process of identifying materials offered to an archives that
           have sufficient <em>value</em> to be accessioned.</p>
           </div>
-        </section>
 
-        <section>
-          Incunabula
-          <aside>
-            Hedstrom's STS framework for Digital Archives research. 4 types of
-            research. Surprisingly little has been done to examine 
-            web archives, while a great deal of work has been done in the
-            digital curation and digital preservation spaces.
-          </aside>
-        </section>
-
-        <section>
-          Jess Ogden, Emily Maemura, Anat Ben-David ... and Clifford Lynch?
-        </section>
-
-        <section>
-          <ul>
-            <li><b>RQ1:</b> How is appraisal being enacted in web archives?</li>
-            <li><b>RQ2:</b> How do definitions of what constitutes a web archive relate to the practice of appraisal?</li>
-          </ul>
-          <aside>
-          </aside>
-        </section>
-
-        <section>
-          <img height=200 src="images/jenkinson.jpg">
-          <img height=200 src="images/schellenberg.jpg">
-          <img height=200 src="images/ham.jpg">
-          <img height=200 src="images/booms.jpg">
           <br>
-          <img height=200 src="images/cook.jpg">
-          <img height=200 src="images/samuels.jpg">
-          <img height=200 src="images/harris.jpg">
-          <aside class="notes">
-            Our most important and intellectually demanding task as 
-            archivists is to make an informed selection of information
-            that will provide the future with a representative record
-            of human experience in our time. But why must we do it so
-            badly? Is there any other field of information gathering
-            that has such a broad mandate with a selection process so
-            random, so fragmented, so uncoordinated, and even so often
-            accidental?
-          </aside>
-        </section>
+          <br>
 
-        <section>
-
-          <h2>Algorithms</h2>
-
-          <div class="citations">
-
-          <p>
-          <a href="https://twitter.com/RobKitchin">Rob Kitchin</a>. 2016. Thinking critically about and researching algorithms. <em>Information, Communication &amp; Society</em>: 1–16.
-          </p>
-
-          <p>
-          <a href="https://twitter.com/npseaver">Nick Seaver</a>. 2013. Knowing algorithms. <em>Media in Transition</em> 8: 1-12. </p>
-
-          <p>
-          <a href="https://twitter.com/staeiou">R. Stuart Geiger</a>. 2014. Bots, bespoke code, and the materiality of software platforms. <em>Information, Communication &amp; Society</em>: 
-          342-356.
-          </p>
-
+          <div style="text-align: left; width: 70%; margin-left: 15%;" class="fragment">
+          <hr>
+          Society of American Archivists (2004).<br><em>A Glossary of Archival and Records Terminology.</em>
           </div>
 
         </section>
 
         <section>
 
-          <h2>Infrastructure</h2>
-
-          <div class="citations">
-
-          <p>
-          <a href="http://www.davidribes.com/">David Ribes</a> and <a href="https://twitter.com/ducktopian">Charlotte P. Lee</a>. 2010.  Sociotechnical studies of cyberinfrastructure and e-research: Current themes and future trajectories. <em>Computer Supported Cooperative Work (CSCW)</em> 19, 3: 231–244.
+          <img style="width: 50%; float: right;" src="images/incunabula.jpg">
+        
+          <p style="text-align: left;">
+          Hedstrom, M. (1991). Understanding electronic incunabula: A framework
+          for research on electronic records. <em>The American Archivist</em>,
+          54(3), 334–354.
           </p>
 
           <p>
-          <a href="https://twitter.com/ducktopian">Tarleton Gillespie</a>. 2010.  The politics of platforms. <em>New Media &amp; Society</em> 12, 3: 347–364.
-          </p>
-          </div>
-
-        </section>
-
-        <section>
-
-          <h2>Breakdown, Repair &amp; Work</h2>
-
-          <div class="citations">
-          <p>
-          <a href="https://sjackson.infosci.cornell.edu/">Steven J. Jackson</a>. 2014. Rethinking repair. In Media technologies: <em>Essays on communication, materiality and society</em>. MIT Press.
+            <ol>
+              <li class="fragment">Organizational Change</li>
+              <li class="fragment">Remediation</li>
+              <li class="fragment">System Design</li>
+              <li class="fragment">Technology Markets</li>
+              <li class="fragment">Archival Practice</li>
+            </ol>
           </p>
 
-          <p>
-          <a href="https://en.wikipedia.org/wiki/Susan_Leigh_Star">Susan Leigh Star</a>. 1999. The ethnography of infrastructure. <em>American Behavioral Scientist</em> 43, 3: 377-391.
-          </p>
-
-          <p>
-          <a href="https://en.wikipedia.org/wiki/Lucy_Suchman">Lucy Suchman</a>. Making work visible. <em>Communications of the ACM</em>, 38(9):56–64, 1995.
-          </p>
-          </div>
-
-        </section>
-
-        <section>
-          <img height="600" src="images/fieldnotes.jpg">
           <aside class="notes">
-            <p>
-            As we've seen the question of how people and machines work
-            together to archive the web is certainly has a quantitative
-            componenta to it. But our question of how people (archivists)
-            ascribe value to web content was also fundamentally qualitative. 
-            </p>
-            <p>
-            We thought about doing surveys, but surveys of the web archiving
-            community have been done, which provide general pictures of the
-            types of organizations, tools, procedures at a high level. We
-            weren't exactly sure what questions to ask on a survey to get
-            at this question of appraisal. We were interested in thick 
-            descriptions of the appraisal process itself. What factors went 
-            into deciding what materials to collect? What tools did they 
-            actually use in their work? What did their daily routines look 
-            like?
-            </p>
+            In 1991 Hedstrom outlined a framework for research in 
+            digital archives which comes from the discipline history of technology 
+            and centers a sociotechnical approach that doesn't privelege social
+            or technical explanations of how digital archives function.
+
+            While I think a lot of work has been done in the digital curation
+            and digital preservation space along these lines. There has been 
+            surprisingly little done on web archives.
           </aside>
+
         </section>
 
         <section>
-          <img src="images/seedlist.png">
-          <aside class="notes">
-            Interested in examining the mundane details of the seedlist.
-          </aside>
+
+          <ul class="spaced-list">
+
+          <li>Ogden, J., Halford, S., and Carr, L.  (2017). Observing web
+            archives. In <em>Proceedings of WebSci’17</em>, Troy, NY.</li>
+
+          <li>Maemura, E., Worby, N., Milligan, I., and Becker, C. (2018). If
+            these crawls could talk: Studying and documenting web archives
+            provenance. <em>Journal of the Association for Information Science
+              and Technology</em>, 69(10), 1223–1233.</li>
+
+          <li>Ben-David, A. and Amram, A. (2018). The Internet Archive and the
+            sociotechnical construction of historical facts. <em>Internet
+              Histories</em>, 2(1-2), 179–201.</li>
+
         </section>
 
         <section>
-          <ul style="list-style: none;">
-            <li class="fragment">39 contacted (email)</li>
-            <li class="fragment">33 responded</li>
-            <li class="fragment">28 interviewed</li>
-            <li class="fragment">female (13) / male (15)</li>
-            <li class="fragment">university, non-profit, library/museum, .gov, </li>
-            <li class="fragment">archivists, developers, researchers</li>
-            <li class="fragment">semi-structured interviews</li>
-            <li class="fragment"><img class="plain" width="150" src="images/skype.jpg"></li>
+          <h2>Critical Algorithm &amp; Data Studies</h2>
+
+          <ul class="spaced-list">
+
+            <li>boyd, d. and Crawford, K. (2012). Critical questions for Big Data: Provocations for a cultural, technological, and scholarly phenomenon.  <em>Information, Communication & Society</em>, 15(5) 662-679.</li>
+
+            <li>Seaver, N. (2017). Algorithms as culture: Some tactics for the Ethnography of Algorithmic systems. <em>Big Data &amp; Society</em>, 4(2).</li>
+
+            <li>Mackenzie, A. (2017). <em>Machine Learners: Archaeology of a Data Practice</em>. MIT Press.</li>
+
           </ul>
+
+        </section>
+
+        <section>
+          <p style="text-align: left; margin-bottom: 100px;">
+          <span style="font-size: 40pt; font-weight: bold;">RQ1:</span><br>
+          How is appraisal being enacted in web archives?
+          </p>
+          <p style="text-align: left;">
+            <span style="font-size: 40pt; font-weight: bold;">RQ2:</span><br>
+            How do concepts of what constitutes a web archive relate to the practice of appraisal?
+          </p>
           <aside class="notes">
-            Started with people from the Web Archives 2015: Capture, Curate 
-            and Analyze conference at the University of Michigan. And did
-            snowball sampling from there.
+            Why does answering these questions matter?
           </aside>
         </section>
 
         <section>
-          <h2>Findings</h2>
-          <ul>
-            <li><b>crawling:</b> domains, websites, events, topics</li>
-            <li><b>structures:</b> hierarchies, networks, streams, items</li>
-            <li><b>resources:</b> time, money</li>
-            <li><b>people:</b> roles, staffing, change, politics</li>
-            <li><b>collaboration:</b> organizations, outreach</li>
-            <div style="color: red" class="fragment">
-            <li><b>currency:</b> news, radio, rss, email</b></li>
-            <li><b>breakdown:</b> spreadsheets, forms, emails, DDoS</li>
+          <h2>Study 1: Appraisal Talk</h2>
+          <a href="https://web.archive.org/web/20180307070842/https://www.lib.umich.edu/webarchivesconference">
+            <img style="width: 80%; border: thin inset gray; padding-bottom: 10px;" src="images/umich.png">
+          </a>
+        </section>
+
+        <section>
+          <h2>Study 1: Methods</h2>
+          <br>
+          <br>
+          <div class="columns">
+
+            <div class="column">
+              <p>
+                <b>Data</b>:
+                <hr>
+              </p>
+
+              <ul>
+                <li>Ethnographic Interviews</li>
+                <li>Audio Recordings</li>
+                <li>Transcription</li>
+              </ul>
             </div>
-          </ul>
+
+            <div class="column">
+              <p>
+                <b>Analysis</b>:
+                <hr>
+              </p>
+
+              <ul>
+                <li>Coding (MAXQDA)</li>
+                <li>Inductive Thematic Analysis</li>
+                <li>Critical Discourse Analysis</li>
+              </ul>
+            </div>
+
+          </div>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+          <br>
+
         </section>
 
         <section>
-          <h2>Future Work</h2>
+          <h2>Study 2: Appraisal Walk</h2>
+          <br>
+          <a href="https://www.nist.gov/software-quality-group/national-software-reference-library-nsrl">
+            <img style="width: 80%;" src="images/nsrl.png">
+          </a>
+        </section>
+
+        <section>
+          <h2>Study 2: Methods</h2>
+          <br>
+          <div class="columns">
+
+            <div class="column">
+
+              <p>
+                <b>Data</b>
+                <hr>
+              </p>
+
+              <ul>
+                <li>Participant Observation</li>
+                <li>Fieldnotes</li>
+                <li>Ethnographic Interviews</li>
+                <li>Transcription</li>
+                <li>Code Repositories</li>
+                <li>Ticketing Systems</li>
+              </ul>
+
+            </div>
+
+            <div class="column">
+
+              <p>
+                <b>Analysis</b>
+                <hr>
+              </p>
+
+              <ul>
+                <li>Coding (MAXQDA)</li>
+                <li>Critical Discourse Analysis</li>
+                <li>Software Studies</li>
+                <li>Trace Ethnography</li>
+              </ul>
+
+            </div>
+
+          </div>
+
+        </section>
+
+        <section>
+          <h2>Timeline</h2>
+            <hr>
+            <table style="width: 75%; margin-left: auto; margin-right: auto;">
+              <tr><td>02/2016 - 03/2016</td><td>IRB (Study 1)</td></tr>
+              <tr><td>03/2016 - 06/2016</td><td>Data Collection (Study 1)</td></tr>
+              <tr><td>06/2016 - 10/2016</td><td>Thematic Analysis (Study 1)</td></tr>
+              <tr><td>10/2016 - 03/2017</td><td>CSCW Paper</td></tr>
+              <tr><td>03/2017 - 11/2018</td><td>Discourse Analysis (Study 1)</td></tr>
+              <tr><td>11/2018 - 02/2019</td><td>Archivaria Article</td></tr>
+              <tr><td>02/2019 - 03/2019</td><td>IRB (Study 2)</td></tr>
+              <tr><td>03/2019 - 03/2020</td><td>Data Collection (Study 2)</td></tr>
+              <tr><td>03/2020 - 09/2020</td><td>Analysis (Study 2)</td></tr>
+              <tr><td>09/2020 - 10/2020</td><td>Manuscript Submission</td></tr>
+              <tr><td>10/2020 - 11/2020</td><td>Final Defense</td></tr>
+              <tr><td>11/2020 - 12/2020</td><td>Final Submission</td></tr>
+            </table>
+            <hr>
         </section>
 
       </div>
