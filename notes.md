@@ -41,3 +41,14 @@ InterPARES project have focused on authenticity.
 I submitted the latest revision of the methods section to my committee to prep
 for the proposal defense in two weeks. I need to develop some slides and
 practice my talk.
+
+
+# Thu Oct 24 17:35:02 EDT 2019
+
+I found this while reading some of my old notebooks:
+
+> Thinking about the NSRL's collecting as a way of *seeing* the web, a
+> particular view of the contents of the web, in this case, software. It is
+> different from how the Internet Archive sees the web as web pages. I think
+> this waay of seeing is related to James Scott's Seeing Like a State, and also
+> Vertesi's Seeing Like a Rover. 
