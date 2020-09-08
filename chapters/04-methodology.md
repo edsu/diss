@@ -35,7 +35,7 @@ Ethnography usually involves some form of participant observation of people in a
 
 > Interviews and ethnographies of coding projects, and the wider institutional
 > apparatus surrounding them (e.g., management and institutional 
-> collaboration), start to produce such knowledge, but they need to 
+> collaboration), start to produce such knowledge, but they need to be
 > supplemented with other approaches, such as a discursive analysis 
 > of company documents, promotional/industry material, procurement 
 > tenders and legal and standards frameworks; attending trade fairs and 
@@ -49,7 +49,7 @@ Ethnography of algorithmic systems is also challenged by the nature of observati
 
 Before diving into the specific details of how I am proposing to researching appraisal in web archives it is worth briefly situating Critical Algorithm Studies in the broader tradition in Science and Technology Studies, which will be helpful for grounding my own research project.
 
-As we have just discussed, algorithms operate as discrete computational processes that transform input into output; but at the same time they also function as part of an information *infrastructure*, in which the algorithms are defined in terms of the practices and relations they are embedded in. Susan Leigh Star, one key theorist of Infrastructure Studies, stresses that infrastructures are *relational*, that they are not constituted by a particular set of objects or artifacts so much as they are embedded in practices that happen in time:
+As I have just outlined, algorithms operate as discrete computational processes that transform input into output; but at the same time they also function as part of an information *infrastructure*, in which the algorithms are defined in terms of the practices and relations they are embedded in. Susan Leigh Star, one key theorist of Infrastructure Studies, stresses that infrastructures are *relational*, that they are not constituted by a particular set of objects or artifacts so much as they are embedded in practices that happen in time:
 
 > ... we hold that infrastructure is a fundamentally relational concept. It 
 > becomes infrastructure in relation to organized practices. Within a given 
@@ -58,44 +58,106 @@ As we have just discussed, algorithms operate as discrete computational processe
 > a variable in a complex equation. Thus we ask, when--not what--is an 
 > infrastructure. [@Star:1996, p. 4]
 
-This attention to relations in infrastructure that Star identifies are a concern of Actor Network Theory (ANT) [@Latour:2005], or material semiotics more generally (@Law:2009). For Latour, ANT "define[s] the social not as a special domain, a specific realm, or a particular sort of thing, but only as a very peculiar movement of re-association and reassembling" (p. 7). These movements are identified by a broadening of the types of actors that can participate in relations to include so called non-humans as *actants*, which multiplies the types of and complexity of relations. Latour uses the term *symmetry* as a shorthand for this idea of granting both humans and non-humans with measures of agency. These relations are made durable in material, strategy, discourse, and performance, which allows them to persist in time, or as Latour memorably says "technology is society made durable" [@Latour:1990]. 
+This attention to relations in infrastructure that Star identifies are a concern of Actor Network Theory (ANT) [@Latour:2005], or material semiotics more generally (@Law:2009). For Latour, ANT "define[s] the social not as a special domain, a specific realm, or a particular sort of thing, but only as a very peculiar movement of re-association and reassembling" (p. 7). These movements are identified by a broadening of the types of actors that can participate in relations to include so called non-humans as *actants*, which multiplies the types of and complexity of relations. Latour uses the term *symmetry* as a shorthand for this idea of granting both humans and non-humans with measures of agency. These relations are made durable in material, strategy, discourse, and performance, which allows them to persist in time, or as Latour puts it "technology is society made durable" [@Latour:1990]. 
 
 In addition to tracing what is, and how these networks of relations are made durable, it is also critically important to consider the point of departure that is chosen for these descriptions: to factor in the role of power in whose stories we tell, and to account for how things "could have been otherwise" [@Star:1990]. Foucault's analysis of the micro-physics of power and governmentality clearly connects here. Yet these are questions not only of politics, but of ontology, recognizing that ontology can function as a totalizing force, but also exists as what Mol calls a *multiplicity*, where distinct practices generate new ways of being that coordinate in time [@Mol:2002].
 
-## Two Projects
+## Research Design
 
-With these theoretical and methodological foundations in mind it is helpful to  now return to my motivating research question before diving into how I plan to answer it. The general question of appraisal in web archives actually cleaves into two interrelated sub-questions:
+With these theoretical and methodological foundations in mind it is helpful to  now return to my motivating research question before diving into how I plan to answer it. The general question of how appraisal in web archives is happening actually cleaves into two interrelated sub-questions:
 
-**RQ1:** How is appraisal currently being enacted in web archives?
+**RQ1:** How is appraisal being enacted in web archives?
 
 **RQ2:** How do definitions of what constitutes a *web archive* relate to the practice of appraisal?
 
-RQ1 is *empirical* since it involves observation and data gathering to describe how appraisal is being performed in the field. The emphasis on *performance* here is intentional, since my purpose is not to make generalized and valid claims about of *all* appraisal practices in web archives. Instead I want to gain qualitative insight into the factors that motivate a discrete set of archivists in their decisions to collect content from the web, in order to better understand how appraisal is functioning in web archives.
+RQ1 is *empirical* since it involves observation and data gathering to describe
+how appraisal is being performed in the field. The emphasis on *performance*
+here is intentional, since my purpose is not to make generalized and valid
+claims about of *all* appraisal practices in web archives. Instead I want to
+gain qualitative insight into the factors that motivate a discrete set of
+archivists in their decisions to collect content from the web, in order to
+better understand how appraisal is functioning in web archives.
 
-RQ2 is *ontological* because it recognizes that decisions of what to collect from the web fundamentally define what a web archive is, and what it will become. At the same time, RQ2 also allows for appraisal decisions to be shaped by the material dimensions of web archives, or what web archives *are*. To borrow a term from Jasanoff, the infrastructures of web archives and their affordances could (we will see) be *coproduced* by practices of appraisal [@Jasanoff:2006]. For example standards can constrain and promulgate particular types appraisal practices in web archives. But these standards in turn reflect decisions made in the design of web archiving systems. Rather than one being a cause of the other, design decisions about how to assemble software, hardware, algorithms and computational resources in web archives are themselves a form of appraisal practice.
+RQ2 is *ontological* because it recognizes that decisions of what to collect
+from the web fundamentally define what a web archive is, and what it will
+become. At the same time, RQ2 also allows for appraisal decisions to be shaped
+by the material dimensions of web archives, or what web archives *are*. To
+borrow a term from Jasanoff, the infrastructures of web archives and their
+affordances could (we will see) be *coproduced* by practices of appraisal
+[@Jasanoff:2006]. For example, standards can constrain and promulgate particular
+types appraisal practices in web archives. But these standards in turn reflect
+decisions made in the design of web archiving systems. Rather than one being a
+cause of the other, design decisions about how to assemble software, hardware,
+algorithms and computational resources in web archives are themselves a form of
+appraisal practice.
 
-Law and Lien refer to this dual lens expressed by my two research questions as *empirical ontology* where questions of ontology are not concerned with describing a cosmology, uni-verse, or single dominant reality; but rather aim to describe how practices, or networks of actors, generate world views or multiple *ontologies* [@Law:2012]. As previously discussed above, the rich descriptions generated by ethnography are particularly well suited to the task of exploring these questions of practice, especially in the context of algorithms and data as culture. I will conduct two case studies to help answer these questions. Rather than each study being tied to one of the research questions, these two sites provide a zooming function, where the practices of multiple informants at multiple sites are analyzed, before diving into a year long field study at a specific location, in order to reassemble the relations discovered by zooming out again [@Nicolini:2009].
- 
-### Appraisal Talk
- 
-In the first research project I will conduct a series of semi-structured, ethnographic interviews with practicing archivists and archives adjacent actors in order to hear how they decide what parts of the web to collect. An initial set of practitioners will be selected from a list of attendees at the Web Archives conference in Ann Arbor, Michigan on November 12-13, 2015 [@UM:2015]. This conference brought together a diverse set of individuals involved in web archiving: archivists, researchers who used web archives, administrators of museums and libraries, open source software developers, and vendor representatives. A semi-structured set of interview questions will be developed, which will be drawn upon to guide participants into sharing information about how they select content from the web for their archives. But as a practitioner in the web archiving field myself, these will be conversational, unstructured, and will seek to elaborate participant's stories about how they have collected from the web. Interviews will be recorded, transcribed, and coded using inductive thematic analysis to derive key factors that influence and shape appraisal practices in web archives.
+@Law:2012 refer to this dual lens expressed by my two research questions as
+*empirical ontology* where questions of ontology are not concerned with
+describing a cosmology, uni-verse, or single dominant reality; but rather aim to
+describe how practices, or networks of actors, generate world views or multiple
+*ontologies*. As previously discussed above, the rich descriptions generated by
+ethnography are particularly well suited to the task of exploring these
+questions of practice, especially in the context of algorithms and data as
+culture.
 
-After identifying emergent themes using MAXQDA [^1] I will use Critical Discourse Analysis (CDA) to examine in detail the words practitioners use, the conventions they have stabilized, the context they share, how they learn from each other in communities of practice [@Lave:1991], and the political work that these communicative practices perform. CDA offers a theoretical framework grounded in critical theory for analyzing how participants’ use of language reflects identity formation, figured worlds and social relations, while also addressing the larger sociotechnical context in which practice takes place. CDA helps examine how language use connects with issues of ideology and power, which are particularly relevant when considering archival appraisal as an inherently political act. The sociolinguist James Paul Gee has noted that "there are solid linguistic, even grammatical grounds, on which to argue that all language-in-interaction is inherently political." [@Gee:2004]
+To answer my research questions I conducted three empirical studies, which I
+will detail here in chapters 4, 5 and 6. These three studies are coordinated
+using between-method triangulation in order to generate a rich description of
+appraisal in web archives [@Denzin:1978; p. 302]. The three qualitative methods
+that will be triangulated are: thematic analysis, critical discourse analysis
+and ethnography. The application of each of these methods will be discussed a
+bit more below, and in detail in their respective chapters. It is important to
+stress here at the outset that the purpose of triangulation is not for
+validation or verification, but to render thick description. The combination of
+these methods also serve as a zooming function, where the practices of multiple
+informants at multiple sites are analyzed, before diving into a year long field
+study at a specific location, in order to reassemble the relations that are
+discovered by zooming out again [@Nicolini:2009]. The outline of these studies
+is as follows:
 
-### Implementing Appraisal
+In Chapter 4, *Bots, Seeds and People* I discuss the results of Study 1, where I
+conducted a series of semi-structured interviews with practicing archivists, and
+archives adjacent actors, in order to hear how they decide how to archive
+regions of the web. Interviews were recorded, transcribed, and coded using
+*inductive thematic analysis* [@Braun:2006] to derive key factors that influence
+and shape appraisal practices in web archives.
 
-In my second case study I will conduct a year long field study at the
-National Software Reference Library (NSRL) at the National Institute for Standards and Technology (NIST) in Gaithersburg, Maryland. Since 1999 the NSRL has maintained the largest public repository of known software, out of which it publishes the Reference Data Set (RDS) which provides file profiles and file signatures for use by law enforcement and other organizations involved with computer forensic investigations. While not being a web archive in name, the NSRL contains software packages that have been actively collected from the web as data. This data is collected from the web using a variety of techniques and automated tools, and then is stored, indexed and processed in order to publish the RDS that documents the fixities of hundreds of millions of computer files. Crucially, the NSRL needs to decide what software to collect, and in doing so must balance the needs of their customers with the architectural constraints of their repository infrastructure, staff and funding mandate. The NSRL has developed practices, technologies and standards, because of its unique role, and placement within the federal government.
+Chapter 5, Appraisal Talk, describes the results of Study 2, which applies
+critical discourse analysis (CDA) to a subset of the transcripts created in
+Study 1. CDA offers a theoretical framework grounded in critical theory for
+analyzing how participants’ use of language reflects identity formation, figured
+worlds and social relations, while also addressing the larger sociotechnical
+context in which practice takes place.
 
-As part of my field study I will document my observations and experiences as a participant observer in the NSRL using field notes gathered during weekly staff meetings, and interactions with NSRL staff as they go about their work. NIST's online collaborative environments (Slack, Bugzilla) will be analyzed using trace ethnography [@Geiger:2014] in order to identify actors, systems and practices that are relevant for the process of appraisal. Techniques from Critical Algorithm and Data Studies will be used to analyze available source code, and database schemas [@Thomer:2018] to trace appraisal activities in the infrastructure of the NSRL. This data will be supplemented with in depth interviews with NIST employees that will provide additional materials for tracing the shape of appraisal in an infrastructural setting which does not necessarily fit with the traditional conception of a web archive. These interviews will focus on the personal stories of how these employees came to work at NIST with the NSRL, and explore how these individual stories work to form organizational narrative, memory and identity [@Linde:2009] that happen over long stretches of time [@Cohn:2013].
+Finally, in Chapter 6. Seeing Software I relate findings from a year long field
+study at the National Software Reference Library (NSRL) at the National
+Institute for Standards and Technology (NIST) in Gaithersburg, Maryland. Since
+1999 the NSRL has maintained one of the largest collections of software in the
+world. While not a web archive in name, the NSRL contains software packages that
+have been actively collected from the web as data. Crucially, the NSRL needs to
+decide what software to collect from the web, and in doing so must balance the
+needs of their customers with the architectural constraints of their repository
+infrastructure, staff and funding mandate.
 
-The resulting field notes and observational data will be analyzed using techniques from Actor Network Theory (ANT) which trace the activities of human and non-human agents in the performance of appraisal in the NSRL. Interviews will be coded using relevant themes, entities and relations that were identified in the previous CDA study. Field notes will be consulted in order to navigate what questions to ask of my informants, and how to relate to them, since they will be unstructured interviews. In addition, my field notes will help me analyze how my role in the NSRL, and my perspective on it and my research change during my time spent as a participant observer in the NSRL. Reflexivity is a key component since the ethnographer become the instrument of research, in the stories they choose to tell.
+![Between-Method Triangulation](images/methods.png)
 
-## Design
+These three studies provide a zooming function in that they start with 1) what
+people talk about when they talk about appraisal the web, 2) how they talk about
+what appraising the web, and 3) what they do when appraising the web.
+Conceptually 1 and 2 are about inferring practice through language use, and 3)
+is concerned with observed practice in the field.
 
-These two sites will allow me to connect how archivists talk about appraisal and also how they *do* appraisal. Both activities are integral parts of appraisal as a practice. The purpose is to gain greater insight into how data is collected from the web, because the ways in which these data lakes are assembled have crucial social and political implications for how that data is to be used. It is tempting to see a direct line of causation between how data is to be used, to how it is collected. However sociotechnical theory suggests that this line may not be as direct as we think, and may feed back on itself in important ways.
-
-It also may be tempting to suggest that these two case studies will provide insights that can be used in the design of web archiving systems. While I don't want to rule this out entirely, it is not explicit purpose of my research project to derive new designs for web archiving systems. Implications for design may not be practical given how different these two case studies are. It is much more likely that implications for theory and/or method might be achieved. I hope that this project will shed light on how web archives themselves are conceived, and how a more enlarged and theorized concept of web archiving practice can enrich information studies pedagogy. As Dourish notes in his influential piece critiquing the role of ethnography in design:
+It was tempting to think that these studies as a whole would provide insights
+about the design of web archiving systems. Especially for the NSRL study, I
+wanted to yield results that could potentially benefit the organizationthat was
+kind enough to host me. However it is not explicit purpose of my research
+project to derive new designs for web archiving systems, but to generate new
+knowledge about them. My goal in asking these research questions about how
+appraisal is being enacted in web archives is to shed light on how web archives
+themselves are conceived, and how a more enlarged and theorized concept of web
+archiving practice can enrich information studies pedagogy and historiography.
+As Dourish notes in his influential piece critiquing the role of ethnography in
+design:
 
 > It is practice that gives form and meaning to technology; the focus 
 > of ethnography is the ways in which practice brings technology into 
@@ -107,6 +169,3 @@ It also may be tempting to suggest that these two case studies will provide insi
 > what kinds of models they reflect. [@Dourish:2006]
 
 \pagebreak
-
-[^1]: https://www.maxqda.com/
-

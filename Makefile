@@ -2,7 +2,7 @@ all: pdf docx epub clean
 
 pdf: append
 	pandoc chapters/*.md \
-	  --bibliography=${HOME}/Dropbox/BibDesk/citations.bib \
+	  --bibliography=${HOME}/Dropbox/JabRef/citations.bib \
 	  --filter pandoc-citeproc \
 	  --csl apa.csl \
 	  --pdf-engine=xelatex \
@@ -12,7 +12,7 @@ pdf: append
 
 docx: append
 	pandoc chapters/*.md \
-	  --bibliography=${HOME}/Dropbox/BibDesk/citations.bib \
+	  --bibliography=${HOME}/Dropbox/JabRef/citations.bib \
 	  --filter pandoc-citeproc \
 	  --csl apa.csl \
 	  --pdf-engine=xelatex \
@@ -22,7 +22,7 @@ docx: append
 
 epub:
 	pandoc chapters/*.md \
-	  --bibliography=${HOME}/Dropbox/BibDesk/citations.bib \
+	  --bibliography=${HOME}/Dropbox/JabRef/citations.bib \
 	  --filter pandoc-citeproc \
 	  --csl apa.csl \
 	  --pdf-engine=xelatex \
