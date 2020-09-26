@@ -46,7 +46,7 @@ the Web and the immediacy of its underlying protocols have occasioned a shift in
 the nature of appraisal, particularly with regard to the trust relationship
 between the documenter and the documented.
 
-## Methodology
+## V.A. Methodology
 
 One way of investigating the phenomenon of archivalization is to qualitatively
 analyze how archivists talk about their appraisal work: to look at the words
@@ -116,10 +116,10 @@ In addition to Gee’s seven building tasks, I used several of his specific tool
 for discourse analysis; these are mentioned in the context of the findings they
 helped illuminate.^62
 
-## Findings
+## V.B. Findings
 
-The findings draw from interviews with three subjects, who I refer to pseudon-
-ymously as Jim, Jack, and Carly. These excerpts, from the 30 hours of interviews
+The findings draw from interviews with three subjects, who I refer to using the
+pseudonyms Jim, Jack, and Carly. These excerpts, from the 30 hours of interviews
 coded for analysis, have been selected specifically because of the way these
 informants talked about their appraisal work and the manner in which they
 involved other people in their decision-making processes. Gee’s seven building
@@ -159,7 +159,7 @@ that is useful for the discussion. The excerpts used here are not intended to be
 representative of archivists in general but are used to provide insights into
 particular factors that are at play in the appraisal of web content.
 
-### Hierarchies
+### V.B.1. Hierarchies
 
 Jim works as an archivist in a non-profit organization that does a large amount
 of web archiving as well as digitization. In the following excerpt, Jim
@@ -253,7 +253,7 @@ already being "on the ground" with the process, which casts the archives in the
 role of actively seeking content and not simply receiving content. This is a
 highly significant donor relationship, which we will return to below.
 
-### Mentorship
+### V.B.2. Mentorship
 
 Jack is an archivist at a large university in the United States, which he joined
 a few years ago after leaving a previous job as an archivist at another
@@ -370,7 +370,7 @@ email discussion lists, RSS feeds, and bookmarks later in the interview) and
 that it could be useful to find one.
 
 
-### Structures
+### V.B.3. Structures
 
 There is something else going on in Carly’s discourse, which may be apparent
 only to an outsider to the library and archives profession. To draw this out, it
@@ -453,7 +453,7 @@ Doing the work of crawling the Web and appraising web content inscribes these
 political dynamics into the archive and presents an opportunity to reflect on
 what they are.
 
-## Discussion
+## V.C. Discussion
 
 Gee’s seven building tasks provided a clarifying lens for studying the discourse
 that emerged from these interviews. Specifically, Gee’s relationships building

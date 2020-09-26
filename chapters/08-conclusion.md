@@ -93,16 +93,16 @@ a decision is made to either accession or discard the records. I've already
 discussed how I was mistaken about appraisal decisions happening in a singular
 moment. However I was also mistaken about records having a specific value as a
 attribute. The value of records acquired from the web by the NSRL were bound up
-in how the records were to be used (the RDS).
+in how the records were to be used.
 
 Initially this shift in attention to use seemed like a familiar pragmatist line
 of argument about value, where the ends justify the means. But further
 investigation, and reflection with @Ahmed:2019 revealed that some records were
 acquired even though they had no obvious use (disuse). Some records were in a
 superposition of use and misuse (ByLock and SWID). Use is fluid, multiple,
-contradictory, and even a subject of resistance. Perhaps it is more accurate to
-say that appraisal value is inherently tied to *practice* to avoid the
-utilitarian interpretation of the word "use".
+contradictory, and subject to resistance. Perhaps it is more accurate to say
+that appraisal value is inherently tied to *practice* to avoid the utilitarian
+interpretation of the word "use".
 
 In principle this *use of use* and its application to archival appraisal is not
 unlike the concept of functional analysis, which is at the core of appraisal
@@ -166,8 +166,6 @@ is discovered in research.
 > that is useful to others, with this "to" being an opening, an invitation, a
 > connection. [@Ahmed:2019, p. 222].
 
-(need to cite Caswell:2019a here)
-
 At the risk of naturalizing these genealogies of use, thereby erasing the role
 of archival agency, one way to visualize these genealogies of use is as the
 concentric rings of a tree trunk which spiral outwards, just as data is relayed
@@ -177,41 +175,82 @@ from one context to another [@Janee:2009].
 
 Was the bark created to record the age of the tree, or to store information
 about the amount of carbon-dioxide in the atmosphere, or to indicate how much
-rainfall there was that year? No! The bark's initial use is to protect against
+rainfall there was that year? No. The bark's initial use is to protect against
 damage from parasites, animals, diseases, dehydration, and fire. As the tree
 ages the bark supports the tree. Any secondary use of the bark over time, such
 as to measure age, derives from an understanding of the bark's initial use.
 While provenance is normally understood in terms of ownership, this genealogy of
-use is at the heart of what provenance is concerned with:
+use is at the heart of what provenance is concerned with. Below in Figure 25 is
+a diagram of these concentric rings of use, where the initial use of the records
+is labeled as `U<sub>0</sub>` and subsequent uses as `U<sub>n</sub>`,
+`U<sub>n+1</sub>`.
 
 ![Concentric Rings of Use](images/use-rings.png){ height=45% }
 
 Failing to attend to the use of records lets us believe in the fantasy of their
 singular use, as if they are always and only the evidence of a particular
 thing. But allowing use into the picture allows us to appreciate the full set of
-contingent relations that web archives participate in. Perhaps it is easier to
-recognize these relations when considering digital records, such as web
-archives, because as data they can easily copy and transport themselves into
-different contexts.
+contingent relations and value propositions that web archives participate in.
+Perhaps it is easier to recognize these relations when considering digital
+records, such as web archives, because as data they can easily copy and
+transport themselves into new contexts. Figures 26 and 27 extend the single
+series of use by illustrating how a series can be doubled where multiple uses
+are present at one time: `U<sub>0</sub>` forks into `U<sub>1</sub>` and
+`V<sub>1</sub>`. It is in these genealogies of use that we see the most complete
+expression of the values that web archives entail. Archivists who divorce the
+collection of records from the use of those records will be forever chasing
+their own tail when trying to understand the value of records. Recognizing,
+critiquing and celebrating the use of records is where we encounter the value of
+web archives.
 
 ![Age in Double Figures? by Garry Knight](images/tree-double.jpg){ height=45% }
 
 ![Concentric Rings of Use](images/use-rings-two.png){ height=45% }
 
-In a 2013 issue of the *American Archivist* Mark Greene, Randall Jimerson and
-Michelle Caswell engaged in a heated debate about the place of social justice in
-archival studies. To overly simplify a complex set of arguments made by all
-three, Greene contended that a social justice agenda in archives weakened the
-profession, because once activated it limits the archivist's ability to collect
-(e.g. from the opposing side of an issue). Jimerson responded saying that he did
-not mean to suggest that all archivists should assume the mantle of social
-justice, and that all archivists needed to exercise their abilities and
-conscience--the world needs more than one archives. Caswell responded primarily
-to Greene by saying that an inadequate engagement with what constitutes *social
-justice* by caricaturing a small number of archival studies scholars undermined
-any argument he was attempting to make. However, at the center of Greene's
-provocation was an interesting paradox, which he presented by way of
-@Ketelaar:2005b, which has other parallels:
+Dismantling these three hidden axioms (time, ontology and use) of appraisal in
+web archives clears the way for several areas of values based research for web
+archives and archival studies more generally. Archival studies researchers have
+a much larger and more variegated landscape to observe and analyze once the
+architecture of the web archive is freed from the notion that it must fit a
+particular architectural shape, or technical mold. For example what archival
+practices do individuals enact with their own social media data? How do the
+"archives" offered by web platforms operationalize a view of what an archive is,
+and how it should be used? By what processes are websites migrated forwards in
+time as the contents of one content management system are migrated to another?
+How do the archives of web content collected in one context transfer as assets
+into another context during corporate acquisitions and mergers? How do
+distributed web technologies such as IPFS [@IPFS:2020] or the partnership
+between CloudFlare and the Internet Archive [@Graham:2020] enact a particular
+archival view of the web? And as machine learning models are generated from
+large accumulations of web content how do we adequately document these web
+archives so that the biases inherent in the models can be interpreted? 
+
+An example can help make this last question a bit more concrete. OpenAI's GPT-3
+deep learning language model is trained using text collected from the web by the
+CommonCrawl project [@Weinberg:2020]. What parts of the web are being collected
+by CommonCrawl? How do we understand the values of these vast collections of
+data and language models as web archives that are being created for particular
+uses? Casting these research topics as questions for archival studies research
+and not simply the concerns of machine learning or human computer interaction
+(HCI) research is critical for understanding them not simply in terms of
+innovation but as value driven efforts that extend over time.
+
+But I think this dissertation's consideration of archival appraisal in the
+context of web provides some insight into problems that have preoccupied
+archival studies more generally. In a 2013 issue of the *American Archivist*
+Mark Greene, Randall Jimerson and Michelle Caswell engaged in a heated debate
+about the place of social justice in archival studies. To overly simplify a
+complex set of arguments made by all three, Greene contended that a social
+justice agenda in archives weakened the profession, because once activated, it
+limits the archivist's ability to collect (e.g. from the opposing side of an
+issue). Jimerson responded saying that he did not mean to suggest that all
+archivists should assume the mantle of social justice, and that all archivists
+needed to exercise their abilities and conscience--the world needs more than one
+archives.  Caswell responded primarily to Greene by saying that an inadequate
+engagement with what constitutes *social justice* by caricaturing a small number
+of archival studies scholars undermined any argument he was attempting to make.
+However, at the center of Greene's provocation was an interesting paradox, which
+he presented by way of @Ketelaar:2005b, which has other parallels:
 
 > The records created and used by German and Dutch agencies during the Second
 > World War to account for the looting of Jewish assets continued to be used,
@@ -231,10 +270,10 @@ returning the stolen items to their rightful owners would not have been
 possible. However, if they chose to create and manage these records to enable
 the theft then they are a willing participant in an ethically bankrupt activity.
 In some ways this is a case of 20/20 hindsight. But I think it's useful to
-accept the paradox as a philosophical problem.
+accept the paradox of these records as a philosophical problem.
 
-Ludwig Wittgenstein saw paradoxes as misunderstandings which dissolve with the
-therapy of philosophy.
+The philosopher Ludwig Wittgenstein famously saw paradoxes as linguistic
+misunderstandings which dissolve with the therapy of philosophy.
 
 > It is not our aim to refine or complete the system of rules for the use of our
 > words in unheard-of ways. For the clarity that we are aiming at is indeed
@@ -242,9 +281,11 @@ therapy of philosophy.
 > should *completely* disappear. The real discovery is the one that makes me
 > capable of stopping when I want to. [@Wittgenstein:1953, 133]
 
-Later in life Wittgenstein proposed that words weren't defined in terms of their
-reference to objects in the world, but in terms of their use. I think records
-are similar in that records have no value outside of considerations of use.
-There may be many uses, some uses may be hidden, some uses may conspire against
-each other, some uses may as yet be unknown, but it's only in recognizing and
-understanding their use that a records value can be understood, and acted upon.
+Insights that allow problems to disappear rather than be solved are what
+philosophy is all about. Later in life Wittgenstein proposed that words weren't
+defined in terms of their reference to objects in the world, but in terms of
+their use in human activity. Records are similar in that they have no value
+outside of considerations of use. There may be many uses, some uses may be
+hidden, some uses may conspire against each other, some uses may as yet be
+unknown, but it's only in recognizing and understanding their use that a
+record's value can be understood, and acted upon.

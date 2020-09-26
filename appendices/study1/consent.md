@@ -2,9 +2,9 @@
 
 # IX. Appendixes 
 
-## Study 1 Documents
+## IX.A. Study 1 Documents
 
-### Consent Form
+### IX.A.1. Consent Form
 
 You are invited to be in a research study that explores the selection of Web
 content for preservation in an archive. You were selected as a possible

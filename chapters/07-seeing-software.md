@@ -1,12 +1,12 @@
 # VI. Seeing Software
 
 When trying to understand how archivists decide what to collect from the web
-(appraisal) it is clearly important to get a clear sense of what web archives
-*are*. But what *are* web archives, really? My review of the research literature
-and interviews with practitioners thus far have suggested an uncontroversial
-answer to this question: web archives are the places on the web that collect,
-preserve and provide access to what other places on the web looked like at a
-particular time. Examples of such places include sites like the Internet Archive
+(appraisal) it is important to get a clear sense of what web archives *are*.
+But what *are* web archives, really? My review of the research literature and
+interviews with practitioners thus far have suggested an uncontroversial answer
+to this question: web archives are the places on the web that collect, preserve
+and provide access to what other places on the web looked like at a particular
+time. Examples of such places include sites like the Internet Archive
 [@Lepore:2015] as well as national libraries and other members of the
 International Internet Preservation Consortium who assemble a particular set of
 technologies and practices to crawl, store and "play back" web content
@@ -60,14 +60,14 @@ which over the past twenty years has transitioned from collecting physical media
 to collecting directly from web based software distribution platforms like Steam
 and the Google Play Store.
 
-## Methodology
+## VI.A. Methodology
 
 To understand the methodology employed in this chapter it is helpful to briefly
-review my analysis of appraisal in web archives thus far. In Chapter X I
+review my analysis of appraisal in web archives thus far. In Chapter 4 I
 interviewed archivists and technologists to discover how they they performed
 their work. I used inductive thematic analysis [@Braun:2006] to derive a set of
-interlocking sociotechnical factors that drive the process of appraisal. In my
-second study I used Critical Discourse Analysis [@Gee:2014a] to look closely at
+interlocking sociotechnical factors that drive the process of appraisal. In
+Chapter 5 I used Critical Discourse Analysis [@Gee:2014a] to look closely at
 participants' use of language in these interviews, to see how their language
 figured appraisal practices in web archives. Results from this study found that
 appraisal activities take place in a community of practice [@Lave:1991], where
@@ -101,20 +101,20 @@ archiving. So I expressed my interest in conducting a field study at the NSRL as
 part of my work there. The NSRL agreed to this and the research partnership was
 initiated in August 2018.
 
-My field study lasted from August 2018 to December of 2019. During that time I
-was able to work at NIST's Gaithersburg campus for approximately one day per
-week. Being physically on site allowed me to attend weekly staff meetings, share
-office space with NSRL team members, participate in collaborative workspaces
-such as Slack and Bugzilla, and to generally soak in what it meant to work on
-the NSRL project, and be a NIST employee. During this time I actively created
-field notes that documented my own activities and those that I observed.
-Jottings and photographs taken during my visit were used as source material for
-longer reflections on how work in the NSRL was being performed [@Emerson:2011].
-As I will discuss in more detail below, after twenty years of activity the
-NSRL's work extends out into other departments in the Information Technology Lab
-(ITL) at NIST, and outside of NIST into digital forensics research, law
-enforcement and intelligence communities. Given this complexity it was essential
-for my fieldnotes to reflect on not only on what I observed, but also on my own
+My field study lasted for 16 months. During that time I was able to work at
+NIST's Gaithersburg campus for approximately one day per week.  Being physically
+on site allowed me to attend weekly staff meetings, share office space with NSRL
+team members, participate in collaborative workspaces such as Slack and
+Bugzilla, and to generally soak in what it meant to work on the NSRL project,
+and be a NIST employee. During this time I actively created field notes that
+documented my own activities and those that I observed.  Jottings and
+photographs taken during my visit were used as source material for longer
+reflections on how work in the NSRL was being performed [@Emerson:2011].  As I
+will discuss in more detail below, after twenty years of activity the NSRL's
+work extends out into other departments in the Information Technology Lab (ITL)
+at NIST, and outside of NIST into digital forensics research, law enforcement
+and intelligence communities. Given this complexity it was essential for my
+fieldnotes to reflect on not only on what I observed, but also on my own
 thoughts and feelings as I learned more about the people and the work of the
 NSRL.
 
@@ -245,7 +245,7 @@ subject of my study, choose to tell particular stories, while simultaneously
 choosing not to tell others. What follows are the stories of appraisal as it
 happens in a web archive.
 
-## Findings
+## VI.B. Findings
 
 In each section below I will share a short description of activity or vignette
 drawn from my time working in the NSRL. These accounts are highlight a
@@ -254,7 +254,7 @@ will be introduced with a few words about this significance before diving into
 the specific details. The threads of concern that tie these findings together
 will be outlined in the discussion section that immediately follows.
 
-### NIST
+### VI.B.1. NIST
 
 Before eliciting some of the activities of the NSRL and their relevance for
 understanding archival appraisal in web archives it is important to set the
@@ -264,8 +264,6 @@ effort by an institution that is over a century old, so this description makes
 no claim to being complete. The purpose is to adequately ground subsequent
 descriptions of NSRL activities that are relevant to the study of archival
 appraisal.
-
----
 
 The National Software Reference Library (NSRL) is a project based at the
 National Institute for Standards and Technology in Gaithersburg, Maryland. For
@@ -352,7 +350,7 @@ approximately 70,000 publishers.
 
 ![RDS Field Use](images/rds-field-use.png){ height=50% }
 
-### The Scene
+### VI.B.2. The Scene
 
 Understanding sociotechnical systems requires that researchers avoid privileging
 purely social or technical explanations. Phenomena are to be understood instead
@@ -375,8 +373,6 @@ previous section left off to describe a few of the agents that are involved in
 the creation of the NSRL Reference Data Set. Naming these agents and drawing
 their network of relations in the setting of the NSRL is important for
 understanding the shapes that appraisal will take.
-
----
 
 I often chose to work at NIST on Thursdays because it was the day scheduled for
 the NSRL weekly staff meeting. I would take the Red line Metro from where I live
@@ -592,7 +588,7 @@ the architecture.
 
 ![March 3, 2019](images/nsrl-infra2.jpg){ height=25% }
 
-### Google Play
+### VI.B.3. Google Play
 
 Over the last 10 years the NSRL has increasingly moved from collecting software
 from physical media (disks, CDs) to collecting software from the network by
@@ -612,8 +608,6 @@ collection. This segment highlights the role that expertise and situated
 knowledge [@Haraway:1988] play in collecting from the web. It also demonstrates
 how this collecting activity is mediated by bespoke software that encodes and
 performs a particular interpretation of appraisal.
-
----
 
 Darius started in the NSRL roughly at the same time I did in 2018. He came from
 France as a Guest Researcher with TELECOM Nancy, which is a public school of
@@ -706,7 +700,7 @@ done more deliberately. Darius mentioned that this process was very slow, but
 because there was not a big budget for purchasing Android apps yet it was not a
 problem.
 
-### Game Platforms
+### VI.B.4. Game Platforms
 
 As Darius' experience illustrates above, even with a clear mandate to collect
 popular software, there is a marked tension between collecting "free" versus
@@ -721,8 +715,6 @@ downloading. These games are distributed using the web, but the game websites
 themselves are complex sociotechnical *platforms* with their own particular
 modes of distribution, moderation and governance [@Gillespie:2010 ;
 @Gillespie:2018].
-
----
 
 Staff meetings are often a time when Melissa and Vlad coordinate the purchase of
 games. As the "librarian" Melissa is responsible for the management of the
@@ -831,7 +823,7 @@ the acquisition of data, the logics of financial transactions and the
 proprietary clients needed for downloading content warped these surfaces, and
 required the NSRL to develop bespoke software and practices for managing them. 
 
-### Hashing and Fixity
+### VI.B.5. Hashing and Fixity
 
 In the previous two segments I described how collecting activities around
 Android apps and Steam games worked as appraisal practices for the web. The
@@ -845,8 +837,6 @@ constitutes this archive. Attention to database schemas and data processing
 activities within the NSRL illustrate how appraisal is not something that
 happens once, but is part of a "fluid and evolving socially constructed
 practice" [@Yakel:2003].
-
----
 
 A few employees have worked at NIST long enough to have seen the full life cycle
 of the project and Mike is one of them. He came to the project in 2000 as a
@@ -1139,7 +1129,7 @@ pendulum back in the other direction, by regularizing the ways that software is
 collected and recorded, which could provide at least the appearance of a cleaner
 line of provenance.
 
-### The Customer
+### VI.B.6. The Customer
 
 In the final four segments of my findings I examine different examples of *use*
 of the NSRL. For example the story of the NVD and the NSRL is a story of failed
@@ -1155,8 +1145,6 @@ Bruno Latour calls *immutable mobiles* or *inscriptions*:
 > superimposable, and combinable. They are always mobile, that is they allow for
 > new translations and articulations while keeping some types of relations
 > intact. [@Latour:1999, p. 306-307].
-
----
 
 It wasn't long after I started attending NSRL staff meetings that I heard "The
 Customer" being mentioned. For example, in one meeting when team members were
@@ -1308,7 +1296,7 @@ the most popular pieces of software in the history of computing. And yet the
 question that Microsoft Windows has been ingested fully into the NSRL is
 constantly open to negotiation and revision.
 
-### CAID
+### VI.B.7. CAID
 
 While *The Customer* and the *Steering Committee* are certainly important for
 understanding the dynamics of appraisal in the NSRL, their activities remained
@@ -1318,8 +1306,6 @@ which greatly aided me in seeing the network of actors that participated in the
 NSRL's appraisal decisions. This segment highlights how NIST's own storytelling
 about its work helped them articulate and instantiate the types of values that
 motivated the NSRL's work. 
-
----
 
 One of the most significant events that I witnessed during my time with the NSRL
 was an all hands staff meeting that was called in December of 2018. The meeting
@@ -1417,7 +1403,7 @@ involving the "three letter organizations" such as the FBI, ICE, CIA or NSA.
 
 ![CAID and Games Archiving](images/caid-customer.png){ width=50% }
 
-### ByLock
+### VI.B.8. ByLock
 
 It seems obvious that these stories of use in the NSRL cohered, or hung
 together, in some fashion, because they all involve a network of actors that
@@ -1431,8 +1417,6 @@ of the size, scope and duration of the NSRL accumulates many stories of use over
 its lifetime. In this segment I explore a story of use that was hardly told at
 all, but which highlights a divergent, or perhaps even unwanted use (disuse),
 and turned out to be a use at all--at least in the conventional sense.
-
----
 
 A staff meeting a few months earlier was the scene for a much less auspicious
 announcement of NSRL use. It took place in the space of only about three
@@ -1507,7 +1491,7 @@ access to the RDS, much like access to the software in the NSRL is only
 available to people who have been granted access to the NIST campus, and to the
 NSRL itself.
 
-### Cabrinety 
+### VI.B.9. Cabrinety 
 
 In this last story of use, and the final segment of my findings, I want to
 continue to look through the lens of *use* at the heterogeneous sets of actors
@@ -1517,8 +1501,6 @@ announcements, interviews, and the long term engagement by multiple NSRL staff.
 In it we see again how important institutional collaboration is for appraisal.
 But in this case the immutable mobiles we will trace are not the millions of
 hashes, but the millions of files that comprise the software being archived.
-
----
 
 Many of the conversations I was part of with NSRL staff during my time there
 seemed to revolve in some way or another around their active work collecting
@@ -1725,7 +1707,7 @@ example of the Cabrinety archive highlights how fields that are as seemingly
 unrelated as the military industrial complex and cultural history combine in a
 particular mode of knowledge-power to create new practices.
 
-##  Discussion
+##  VI.C. Discussion
 
 At this point it is worth recalling the research question that I began this
 study with: what are the sociotechnical factors that influence how content is
@@ -1754,7 +1736,7 @@ sides of the same coin, whose denomination is *governmentality*. To close this
 segment I will summarize how these findings illustrate how *use*, *legibility*
 and *governmentality* are interrelated.
 
-### Use
+### VI.C.1. Use
 
 There is a red thread of *Use* that can be traced through the NSRL findings
 above. Consider the collection of software that we saw described in Darius'
@@ -1827,7 +1809,7 @@ is to say that multiple appraisal strategies can hang together, sometimes
 divergent, sometimes coherent, sometimes explicit, sometimes implicit, as
 heuristics of value, at a given time and (especially) over time.
 
-### Legibility
+### VI.C.2. Legibility
 
 The other red thread that runs through my findings from the NSRL is the relation
 that holds between appraisal and *legibility*. I borrow this term *legibility*
@@ -1900,13 +1882,12 @@ value judgment (appraisal) is a key insight here. The desired forms of
 legibility in the NSRL shape the types of software that are collected.
 
 The topic of legibility raises the questions of what is being made legible, and
-for who. The answer that immediately suggests itself is that the production of
+for whom. The answer that immediately suggests itself is that the production of
 the RDS makes unique files on a computer storage systems legible so that
 forensic investigators can ignore them, and focus on the unique files. Thus the
 RDS functions as a type of *finding aid* for the software in the NSRL. But this
 is no ordinary finding aid because it allows the NSRL to be viewed as a type of
-*negative-archive*, or means for inverting attention rather than attracting
-it.
+*negative-archive*, or means for inverting attention rather than attracting it.
 
 Viewed as an anti-archive helps to bring into focus how software is being made
 legible by the NSRL not to people, but to machines. People don't read the RDS
@@ -1954,7 +1935,7 @@ the NSRL is to grow beyond its use as a negative-archive strictly for forensics
 purposes it must open itself up further, and encourage new knowledge production
 practices and social interactions.
 
-### Governmentality
+### VI.C.3. Governmentality
 
 The factors of *use* and *legibility* in the NSRL are mutually constitutive,
 since: specific uses of the archived software in the NSRL require that records

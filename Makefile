@@ -1,14 +1,16 @@
 all: pdf docx epub clean
 
+ 
 pdf: append
 	pandoc chapters/*.md \
+	  --template etc/template.latex \
 	  --bibliography=${HOME}/Dropbox/JabRef/citations.bib \
 	  --filter pandoc-citeproc \
 	  --csl apa.csl \
 	  --pdf-engine=xelatex \
-	  --table-of-contents \
 	  --include-after-body=appendices.tex \
 	  --output diss.pdf
+	  #--table-of-contents \
 
 docx: append
 	pandoc chapters/*.md \

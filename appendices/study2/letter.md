@@ -1,6 +1,6 @@
 \newpage
 
-### Recruitment Letter
+### IX.B.2. Recruitment Letter
 
 Dear ___________
 

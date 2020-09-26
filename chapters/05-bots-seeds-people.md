@@ -1,13 +1,13 @@
 ﻿# IV. Bots, Seeds and People
 
 Given its vastness, volume of content, and the nature of online media, capturing
-and archiving web relies on digital tools. These archiving tools typically
-require archivists to supply lists of website URLs or *seed lists* that are
-deemed important to capture. These lists are essentially a series of starting
-points for a web crawler to start collecting material. The lists are managed by
-web archiving software platforms which then deploy web crawlers or bots that
-start at a seed URL and begin to wander outwards into the web by following
-hyperlinks.
+and archiving the web necessarily relies on digital tools. These archiving tools
+typically require archivists to supply lists of website URLs or *seed lists*
+that are deemed important to capture. These lists are essentially a series of
+starting points for a web crawler to begin collecting material. The lists are
+managed by web archiving software platforms which then deploy web crawlers or
+bots that start at a seed URL and begin to wander outwards into the web by
+following hyperlinks.
 
 Along with the seeds archivists also supply *scopes* to these systems that
 define how far to crawl outwards from that seed URL--since the limits of a given
@@ -20,11 +20,10 @@ In some ways this increasing reliance on algorithmic systems represents a
 relinquishing of archival agency to automated agents and processes that are
 responsible for the mundane activity of fetching and storing content. The
 collaborative moment in which the archivist and the archival software platform
-and automated agents work together has not been closely examined.
-
-In this first study I focus on answering the research question of how archivists
-interact with web archiving systems, and collaborate with automated agents when
-deciding what to collect from the web.
+and automated agents work together has not been closely examined. In this
+chapter I focus on answering the question of how archivists interact with web
+archiving systems, and collaborate with automated agents when deciding what to
+collect from the web.
 
 The study of algorithms and their social effects is a rapidly growing area of
 research which offers multiple modes of analysis for the study of web archives
@@ -50,7 +49,7 @@ singular artifacts of the intent to archive, which makes them valuable
 excavation sites for deepened understanding of the day to day process of
 appraisal in web archives.
 
-## Methodology
+## IV.A. Methodology
 
 To gain insight into how archivists are appraising content we conducted a series
 of semi-structured interviews with a carefully selected group of individuals
@@ -88,11 +87,11 @@ sampling and recruitment. However, our own personal familiarity with the small
 but growing field of web archiving also informed the development of our
 participant list.
 
-In some instances we relied on snowball sampling to recruit interview
-participants. There were occasions when the interview subject was not involved
+In some instances I relied on snowball sampling to recruit interview
+participants.  There were occasions when the interview subject was not involved
 directly in the selection of content for their web archives. In those cases, we
 asked if they could refer someone that was more involved in the actual selection
-process. Other names were often mentioned during the interview, and if I felt
+process.  Other names were often mentioned during the interview, and if I felt
 those individuals could add a useful dimension to the interview I asked for
 their contact information.
 
@@ -135,17 +134,18 @@ opening for future work in this area.
 
 
 Each interview lasted approximately an hour and was allowed to develop
-organically as a conversation. The interview protocol guided the conversation,
-and provided a set of questions to return to when necessary. This protocol was
-particularly useful for getting each interview started: describing the purpose
-of the study and the reason for contacting them. The interview subjects were
-then asked to describe their work in web archives, and about their own personal
-story of how they had come to that work. After this general introduction and
-discussion, the conversation developed by asking follow on questions about their
-work and history. The ensuing conversation normally touched on the interview
-questions from the protocol in the process of inquiring about their particular
-work practices and experiences. Towards the end of the interview, the interview
-protocol was also useful in identifying any areas that had not been covered. 
+organically as a conversation. The interview protocol in Appendix A guided the
+conversation, and provided a set of questions to return to when necessary. This
+protocol was particularly useful for getting each interview started: describing
+the purpose of the study and the reason for contacting them. The interview
+subjects were then asked to describe their work in web archives, and about their
+own personal story of how they had come to that work. After this general
+introduction and discussion, the conversation developed by asking follow on
+questions about their work and history. The ensuing conversation normally
+touched on the interview questions from the protocol in the process of inquiring
+about their particular work practices and experiences. Towards the end of the
+interview, the interview protocol was also useful in identifying any areas that
+had not been covered. 
 
 Interviews were conducted via Skype and recorded. Each participant provided
 informed consent via email. Participants were located in places all across the
@@ -171,9 +171,9 @@ unusual cases that encountered.
 
 The process of inductive thematic analysis performed in this study relied on the use of field notes and personal memos [@Braun:2006]. The analysis began by reading all the field notes together, and then returning to do line by line coding. While coding was done without reference to an explicit theoretical framework, it was guided by our own interest in  appraisal theory as a sociotechnical system that entangles the archivist with the material of the web and automated agents. Interviewee responses that specifically mentioned the selection of particular web content, and the tools and collaborations they used to enact that selection were followed up on and explored through open discussion. This analysis yielded a set of themes that will now be described. 
 
-## Findings
+## IV.B. Findings
 
-Our study reveals that web archiving involves a variety of technical and
+This study reveals that web archiving involves a variety of technical and
 resource constraints that go beyond what is normally considered in archival
 appraisal theory. Archival scholars typically characterize archival selection as
 a process whereby human actors (archivists) primarily follow prescribed sets of
@@ -183,12 +183,12 @@ task of appraisal and selection [@Boles:1985; @Eastwood:1992; @Greene:1998;
 not adequately describe how selection occurs in the web archiving context.
 Instead, we found that automated agents often serve as collaborators that act in
 concert with the archivist. Indeed, these agents themselves are often the
-embodiment of rules or heuristics for appraisal. In this section, we report how
+embodiment of rules or heuristics for appraisal. In this section, I report how
 crawl modalities, information structures, and tools play a significant role in
-selection decisions. We also highlight how resource constraints as well as
+selection decisions. I also highlight how resource constraints as well as
 moments of breakdown work to shape appraisal practice.
 
-### Crawl Modalities
+### IV.B.1. Crawl Modalities
 
 While often guided by archivists in some fashion, the work of archiving is mostly achieved through a partnership with automated agents (bots) that do the monotonous, mostly hidden work of collecting web pages. This work includes fetching the individual HTML for web pages, and then fetching any referenced CSS, JavaScript, image or video files that are required for the page to render. Once a given page has been archived the bot then analyzes the resource for links out into the web, and decides whether to follow those links to archive them as well. This process continues recursively until the bot is unable to identify new content that the archivist has selected, is told to stop, or terminates because of an unforeseen error. Participants reflected on this process by talking about the paths that they took, often *with* their automated agents, through the web in different ways, or modalities: domain crawls, website crawls, topical crawls, event based crawls, document crawls.
 
@@ -227,11 +227,14 @@ a topical based crawl for fracking related material one archivist engaged in a
 discovery process of searching the web using Google and then following links
 laterally outwards onto social media sites and blogs. Once a set of URLs was
 acquired they were assembled into a seed list and given to the Archive-It
-service to collect.
+service to collect. Archive-It is a subscription service run by the Internet
+Archive which allows cultural heritage organizations to build web archives using
+the infrastructure at the Internet Archive rather than locally in their
+organization.
 
 Similarly when an archivist instructed Archive-It to perform a domain crawl for
-a large art museum, the resulting dataset was deemed too large and incomplete. A
-proliferation of subdomains, and a multiplicity of content management systems
+a large art museum, the resulting data set was deemed too large and incomplete.
+A proliferation of subdomains, and a multiplicity of content management systems
 made it difficult to determine the completeness of the crawl.  In this case the
 archivist used Achive-It's crawl reports as well as searching/browsing the
 website to build a list of particular sub-websites within the domain that were
@@ -241,19 +244,19 @@ bot. The larger problem of archiving the entire domain was made more feasible by
 focusing on websites discovered doing a failed domain crawl. This list of
 websites was then given to Archive-It in the form of a seed list.
 
-### Information Structures
+### IV.B.2. Information Structures
 
 In addition to the types of crawling being performed, the activities of archivists and automated agents were informed by information structures on and off the web. Primary among these structures encountered in the interviews were hierarchies, networks, streams and lists. Hierarchies of information were mentioned many times, but not by name, especially when an archivist was engaged with collecting the web content of a particular organization: e.g. the web content from a particular university or government agency. This process often involved the use of an organizational chart or directory listing the components and subcomponents of the entity in question. One participant talked about how they used their university's A-Z listing of departments as a way to build a list of seeds to give to Archive-It. In another example a government documents librarian used the organizational chart of San Mateo local government to locate web properties that were in need of archiving.
 
 Not all web archiving projects are fortunate enough to have an explicit
 hierarchical map. Many appraisal activities involve interacting with and
 discovering networks of resources, that extend and cut across across
-organizational and individual boundaries. For example when Vanessa was archiving
-web content related to the Occupy social movement she saw her organization's
-interest in collecting this content fold into her own participation as an
-activist. This enfolding of interest and participation was evident in the
-network structure of the web where her personal social media connections
-connected her to potential donors of web content.
+organizational and individual boundaries. For example when Vanessa (all names
+are pseudonyms) was archiving web content related to the Occupy social movement
+she saw her organization's interest in collecting this content fold into her own
+participation as an activist. This enfolding of interest and participation was
+evident in the network structure of the web where her personal social media
+connections connected her to potential donors of web content.
 
 > It was part of that same sort of ecosystem of networks. It became clear to me
 > through that process how important that network is becoming in collecting
@@ -308,7 +311,7 @@ the archival bots do the same. The domain knowledge of the archivist was a
 necessary component in this activity, as was the ability for the bot to rapidly
 perform and report on highly repetitive tasks.
 
-### Time and Money
+### IV.B.3. Time and Money
 
 Another thematic feature that emerged from the fieldnotes around the interviews were the material constraints of time and money in the human-machine collaboration of web archiving. Time and money are combined here because of the way they abstract, commensurate and make appraisal practices legible.
 
@@ -321,7 +324,17 @@ particular types of web content. For example, one university used grant money to
 archive music related web content, and another university received a grant to
 focus on state government resources.
 
-The most common way that money was talked about by participants was in subscription fees for web archiving services. Archive-It is a web archiving service where organizations pay an annual subscription fee to archive web content. The primary metric of payment is the amount of data collected in a given year. Interviewees often mentioned that their ability to crawl content was informed by their storage budget. In one example an archivist set the scoping rules for a full domain crawl of her university such that software version control systems were ignored because of the impact it was having on their storage allocation. Dorothy, who was a user of the ArchiveSocial service needed to reduce the number of local government social media accounts that it was archiving because her subscription only allowed a certain number of accounts to be collected.
+The most common way that money was talked about by participants was in
+subscription fees for web archiving services. Archive-It subscribers pay an
+annual subscription fee to archive web content. The primary metric of payment is
+the amount of data collected in a given year. Interviewees often mentioned that
+their ability to crawl content was informed by their storage budget. In one
+example an archivist set the scoping rules for a full domain crawl of her
+university such that software version control systems were ignored because of
+the impact it was having on their storage allocation.  Dorothy, who was a user
+of the ArchiveSocial service needed to reduce the number of local government
+social media accounts that it was archiving because her subscription only
+allowed a certain number of accounts to be collected.
 
 Time manifested in the appraisal of web content at human and machine scales. In one common pattern, archivists set aside time every week, be it a day, or a few hours, for work on the discovery of web content. In one case, Wendy set aside time to read filtered emails about local news stories. In Lisa's case, she set aside a meeting time every week for her acquisition team to get together and review potential web sites for archiving by inspecting websites together on a large screen monitor.
 
@@ -339,9 +352,13 @@ In this case the software was always on, or at least appeared to be always on at
 
 Another motivation for linking time and money in this way is because of how they entail each other. The time spent by archivists in discovery and evaluation of web content for archiving often has a monetary value in terms of salary or hourly wages. Similarly the amount of time spent crawling is often a function of the amount of data acquired, and the cost for storage.
 
-### People
+### IV.B.4. People
 
-One might assume that the work to appraise web archives necessarily involves archivists. However, our interview data made it clear that not all the people involved in appraisal called themselves archivists, and they often worked together with human and non-human agents in collaborative relationships that extended beyond the archives itself.
+One might assume that the work to appraise web archives necessarily involves
+archivists. However, the interview data made it clear that not all the people
+involved in appraisal called themselves archivists, and they often worked
+together with human and non-human agents in collaborative relationships that
+extended beyond the archives itself.
 
 At one large university archives, a series of individuals were involved in the
 establishment of their web archives. Their effort extended over a 15-year period
@@ -387,7 +404,7 @@ one department to the other as key individuals left the library, and as web
 content was migrated from one system to another. This turbulence was common,
 especially in the use of fellowships and other temporary positions.
 
-### Tools
+### IV.B.5. Tools
 
 We have already discussed some tools of the trade that archivists use for collecting websites: the Internet Archive, Archive-It, ArchiveSocial and Hanzo are notable ones that came up during the interviews. These tools are really more like services, or assemblages of individual tools and people interacting in complex and multilayered ways. An investigation of each of these services could be a research study in themselves. These tools largely require intervention by a person who guides the tool to archive a particular website, or set of web resources using a seed list or the equivalent. Rather than dig into the particular systems themselves it is useful to attend to the ways which tools were used to fill in the gaps between these platforms and their users.
 
@@ -422,7 +439,7 @@ In few cases, the Domain Name Service itself was used as a service to discover s
 
 Another prominent technology that participants mentioned was content management systems. In many cases archivists had experience working as web designers or information architects. They had used content management systems like Drupal, Ruby on Rails, WordPress, etc. The archivist would use this knowledge to decide how to crawl websites and diagnose problems when they arose.
 
-### Breakdown
+### IV.B.6. Breakdown
 
 One of the more salient findings during analysis was the locus of breakdown which made the relations between people, tools, and web infrastructure more legible. These moments of breakdown also lead to greater understanding of how the tools operated, and generated opportunities for repair and innovation [@Jackson:2014].
 
@@ -479,7 +496,7 @@ removing) older content. In some sense the website itself adapted or evolved an
 archival function based on the interactions between the archivist and the
 manager of the website being archived. 
 
-## Discussion
+## IV.C. Discussion
 
 On the one hand these research findings demonstrate a somewhat mundane but
 perhaps comforting finding that in many ways appraisal processes in web archives
@@ -507,7 +524,7 @@ sources. While not all interviewees spoke explicitly of this practice being
 handed down, the attention to local news sources was a common theme,
 particularly when it came to processing information streams. This attention to
 current events while simple, is extraordinarily powerful, and reminiscent of
-Hans Booms: 
+German archivist Hans Booms: 
 
 > The documentary heritage should be formed according to an archival conception,
 > historically assessed, which reflects the consciousness of the particular

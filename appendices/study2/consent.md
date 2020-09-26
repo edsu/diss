@@ -1,8 +1,8 @@
 \newpage
 
-## Study 2 Documents
+## IX.B. Study 2 Documents
 
-### Consent Form
+### IX.B.1. Consent Form
 
 #### Project Title
 
