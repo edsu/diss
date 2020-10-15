@@ -88,12 +88,11 @@ paying it much thought I assumed that appraisal value was a property, or
 attribute of the record. Based on the research literature I thought archivists,
 if they were lucky, would have an appraisal policy, collection development
 policy, or at least some shared notion of what records the archive collected and
-why. When new records are acquired, they are evaluated using this criteria, and
-a decision is made to either accession or discard the records. I've already
+why. I thought that new records were evaluated using this criteria, and
+a decision was  made to either accession or discard the records. I've already
 discussed how I was mistaken about appraisal decisions happening in a singular
-moment. However I was also mistaken about records having a specific value as a
-attribute. The value of records acquired from the web by the NSRL were bound up
-in how the records were to be used.
+moment. However I was also mistaken about records having a specific value
+as an attribute. The value of records acquired from the web by the NSRL were bound up in how the records were to be used. An essentialist view of appraisal, where value is a property of records, is replaced by a relational one, where records obtain value based on their use.
 
 Initially this shift in attention to use seemed like a familiar pragmatist line
 of argument about value, where the ends justify the means. But further
@@ -179,6 +178,7 @@ rainfall there was that year? No. The bark's initial use is to protect against
 damage from parasites, animals, diseases, dehydration, and fire. As the tree
 ages the bark supports the tree. Any secondary use of the bark over time, such
 as to measure age, derives from an understanding of the bark's initial use.
+
 While provenance is normally understood in terms of ownership, this genealogy of
 use is at the heart of what provenance is concerned with. Below in Figure 25 is
 a diagram of these concentric rings of use, where the initial use of the records

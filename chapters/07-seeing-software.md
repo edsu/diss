@@ -1847,8 +1847,8 @@ As the NSRL has shifted to collecting software from the web instead of physical
 media, it has needed to adapt its methods of appraisal to accommodate that new
 delivery mechanism. The use cases involving the Google Play Store and Steam
 illustrate how theories of popularity are baked into software, and how these
-automated appraisal processes can conflict with human agency as legibility into
-what has been collected is lost.
+automated appraisal processes can conflict with human agency as the legibility
+of what has been collected is lost.
 
 The multiple generations of the *Juggernaut* database schema and its
 manifestation in different database systems speak to a history of legibility
@@ -1972,7 +1972,7 @@ juridical digital forensics tools found expression not only in courts of law but
 as digital preservation practices for cultural heritage organizations. The
 practices of disk imaging and fixity analysis are tools for measuring people
 through their hard drives. NIST's practices of appraisal of the web, their
-decisions of what to collect, and what not to collect, are enactment of this
+decisions of what to collect, and what not to collect, are an enactment of this
 forensic apparatus.
 
 Foucault is perhaps best known for his critical analysis of power as domination,

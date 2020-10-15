@@ -701,6 +701,25 @@ as a given. Despite the lack of the use of the term appraisal, this vein of
 digital library research speaks to Hedstrom's call for archival studies to
 directly engage in the design of record keeping technologies for the web.
 
+More recently Lee has highlighted the lack of research into what he calls
+"computer assisted appraisal" where digital forensics tools, natural language
+processing (NLP), machine learning (ML) are applied to appraisal activities
+[@Lee:2018a]. Lee observes that these tools have typically been used in digital
+library and archives as a means of providing access points, where personal
+names and topics are algorithmically generated from archival records in order
+to assist researchers in using records. However Lee points out that these tools
+can potentially be used to assist in the selection of records for archives. For
+example, time metadata can be extracted from records using digital forensics
+tools so that content can be selected for an archives based on a timeline. In
+addition, previous appraisal decisions can be used as training data for
+supervised machine learning algorithms that can automatically select content
+going forward as new records are acquired. Coincidentally Lee cites research
+presented here in Chapter 5 as evidence of appraisal in web archives being well
+studied. While a case can be made for this when it comes to the application of
+information technology in the area of archival appraisal, there is still much
+work to be done to study the sociotechnical factors at play in "computer
+assisted appraisal", which do not privilege algorithmic approaches.
+
 ### II.B.3. Electronic Records
 
 Within the field of archival studies there are numerous accounts of how
@@ -716,9 +735,9 @@ organizations, and provides evidence of that operation, in which authenticity,
 reliability and fixity are typically paramount [@Duranti:2010 ; @Cobb:2005 ;
 @Harvey:2010]. Discussion of electronic records also happens under the rubric of
 digital preservation [@Rothenberg:1999] or digital curation [@Yakel:2007]. In
-addition to the preservation of computer files and filesystems researchers have
-worked on means of format identification [@Hitchcock:2007] and pursued the use
-of software emulation to preserve and describe entire software systems
+addition to the preservation of computer files and file systems researchers
+have worked on means of format identification [@Hitchcock:2007] and pursued the
+use of software emulation to preserve and describe entire software systems
 [@Welch:2012 ; @McDonough:2010]. @Lee:2011a suggest that the term *digital
 curation* reflects a postcustodial response to digital preservation, that
 foregrounds the site of record production as outside the walls of the archive,
