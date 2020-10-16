@@ -36,3 +36,11 @@ Stuck together with paste and glue
 Two old planks of knotty pine
 And a couple of nails poked right on through
 
+Borges.
+
+We are our memory,
+we are that chimerical museum of shifting shapes,
+that pile of broken mirrors.
+
+The written word is a lie.
+

@@ -407,21 +407,22 @@ $endif$
 $endif$
 
 \begin{document}
-$if(has-frontmatter)$
-\frontmatter
-$endif$
-$if(title)$
-$if(beamer)$
-\frame{\titlepage}
-$else$
-\maketitle
-$endif$
-$if(abstract)$
-\begin{abstract}
-$abstract$
-\end{abstract}
-$endif$
-$endif$
+% commented out for custom title page 2020-10-15
+%$if(has-frontmatter)$
+%\frontmatter
+%$endif$
+%$if(title)$
+%$if(beamer)$
+%\frame{\titlepage}
+%$else$
+%\maketitle
+%$endif$
+%$if(abstract)$
+%\begin{abstract}
+%$abstract$
+%\end{abstract}
+%$endif$
+%$endif$
 
 $for(include-before)$
 $include-before$

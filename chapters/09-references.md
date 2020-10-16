@@ -1,4 +1,0 @@
-\pagebreak
-
-# VIII. References
-
