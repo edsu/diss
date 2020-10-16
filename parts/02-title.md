@@ -12,7 +12,7 @@ University of Maryland, College Park in partial fulfillment \\
 of the requirements for the degree of \\
 Doctor of Philosophy \\
 2020
-\\[7\baselineskip]
+\\[9\baselineskip]
 \end{center}
 
 Advisory Committee: \\

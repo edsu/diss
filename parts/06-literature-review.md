@@ -4,14 +4,14 @@ This dissertation aims to advance what we know about the practice of appraisal
 and selection in the context of web archiving. My examination of this literature
 shows that appraisal in web archives has been treated both from a social
 perspective in archival studies, and from a technical perspective in digital
-library and electronic records. I highlight how appraisal in web archives is
-best understood as a sociotechnical practice that does not privilege either
-social or technical explanations. Foucault's concept of governmentality provides
-a theoretical lens for examining the diverse set of appraisal "theories" present
-in archival studies, while recognizing the technical practices of the digital
-library research community. The lack of studies that investigate the actual
-practices of appraisal in web archives provides an opening for this
-dissertation's contribution.
+library and electronic records research. I highlight how appraisal in web
+archives is best understood as a sociotechnical practice that does not
+privilege either social or technical explanations. Foucault's concept of
+governmentality provides a theoretical lens for examining the diverse set of
+appraisal "theories" present in archival studies, while recognizing the
+technical practices of the digital library research community. The lack of
+studies that investigate the actual practices of appraisal in web archives
+provides an opening for this dissertation's contribution.
 
 ## 2.1. Appraisal
 

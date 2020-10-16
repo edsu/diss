@@ -32,10 +32,8 @@ Doctor of Philosophy, 2020 \\
 Dissertation directed by: & Associate Professor Ricardo Punzalan \newline
 College of Information Studies \\
 \end{tabularx}
+\\[2\baselineskip]
 \end{singlespace}
-
-\\
-\\
 
 The web is a site of constant breakdown in the form of broken links, failed
 business models, unsustainable infrastructure, obsolescence and general neglect.
