@@ -42,5 +42,11 @@ We are our memory,
 we are that chimerical museum of shifting shapes,
 that pile of broken mirrors.
 
-The written word is a lie.
+The written word is a lie. / Johnny Lydon
+
+"The invention of programmes of government depended upon and demanded an
+“avalanche of printed numbers”, which rendered the population calculable by
+turning it into inscriptions that were durable and transportable, that could be
+accumulated in the offices of officials, that could be added, subtracted,
+compared, and contrasted." [@Rose:1999 pp5-6]
 

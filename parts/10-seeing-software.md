@@ -134,13 +134,14 @@ quotations that I have used.
 The final category of data that I analyzed was documents related to the NSRL's
 work. On my first day on the NIST campus one NIST employee remarked to me that
 "we have no secrets here". Indeed, the NSRL's mission is to serve as a public
-resource for the law enforcement and digital. Many of the NSRL's staff have
-authored research articles, given conference presentations and been the subject
-of interviews with the media. Over the last 20 years NIST itself as part of the
-US Department of Commerce has published a substantial amount of material about
-the NSRL in government documents and on its website. In the case of information
-that is already easily identified because of its published nature I have made no
-attempt to obscure its origins and cited it as any other bibliographic resource.
+resource for the law enforcement and digital forensics communities. Many of the
+NSRL's staff have authored research articles, given conference presentations
+and been the subject of interviews with the media. Over the last 20 years NIST
+itself as part of the US Department of Commerce has published a substantial
+amount of material about the NSRL in government documents and on its website.
+In the case of information that is already easily identified because of its
+published nature I have made no attempt to obscure its origins and cited it as
+any other bibliographic resource.
 
 ![Field Notes and Jottings](images/fieldnotes.jpg){ height=45% }
 
@@ -306,9 +307,9 @@ words of Doug White, the current NSRL Project Lead, NIST was chosen as a site
 for the NSRL because it would make it (the RDS) "from an unbiased source,
 because we are not law enforcement, and we're not a vendor. It's collected in a
 transparent manner. We share everything that we do, as far as procedures. It's
-collected in a scientific manner. It's collected in a traceable manner. And it's
-easily used in digital forensics tools." While work on the NSRL was initiated
-just prior to September 11 terrorist attacks, it 
+collected in a scientific manner. It's collected in a timely manner. And it's
+easily used in digital forensics tools." [@Lyle:2017] While work on the NSRL
+was initiated just prior to September 11 terrorist attacks, it 
 
 > Since the tragedy of September 11, 2001, ITL’s work in computer forensics has
 > taken on added significance and impetus. Sound computer forensics practices
@@ -1066,8 +1067,8 @@ significantly affected the volume of software that the NSRL was able to ingest
 without negatively impacting its operations. It also altered the representation
 of the acquired software. When I spoke with him, Brian showed me this before and
 after visualization of the database schema to illustrate the dramatic changes
-that he made. He specifically pointe out the disconnected layout before, and the
-connected nature after, as foreign keys and indexes were added.
+that he made. He specifically pointed out the disconnected layout before, and
+the connected layout after, as foreign keys and indexes were added to tables.
 
 ![Juggernaut Before Refactoring](images/db-before.jpg)
 
@@ -1293,8 +1294,8 @@ few weeks later Mike followed up with the results of the test:
 This specific example demonstrates the direct connection between use of the RDS
 and the appraisal activities of the NSRL. Microsoft Windows is arguably one of
 the most popular pieces of software in the history of computing. And yet the
-question that Microsoft Windows has been ingested fully into the NSRL is
-constantly open to negotiation and revision.
+question ifo whether or not Microsoft Windows has been ingested fully into
+the NSRL is constantly open to negotiation and revision.
 
 ### 6.2.7. CAID
 
@@ -1616,7 +1617,7 @@ emotive work of inquiry. White's emotional response to this initial unboxing is
 emblematic of the key role that *affect* plays in the creation and use of
 archival work, and indeed, appraisal [@Cifor:2016a].
 
-However, I wanted to highligh this quote from White, to examine the way this
+However, I wanted to highlight this quote from White, to examine the way this
 forensic imaginary, or affective experience, is put to work. White's telling of
 this story sets the scene of the initial unboxing/accessioning of the Cabrinety
 archive, but it also sets in motion and valorizes a circulation of practice. To
@@ -1644,7 +1645,7 @@ software that lay dormant in a warehouse, while also learning about the
 application of forensic technologies such as disk imaging, write blockers,
 digital object packaging, in an archival setting. This circulation of forensic
 practice can be primarily thought of as a discursive movement, where knowledge
-and power are reproduced together (knoweldge-power), as the disciplinary
+and power are reproduced together (knowledge-power), as the disciplinary
 contexts of defense/intelligence gathering/law enforcement fuse with archival
 practice and historical inquiry.
 

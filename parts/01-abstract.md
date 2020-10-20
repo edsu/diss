@@ -18,8 +18,6 @@ header-includes:
 
 \centerline{ABSTRACT}
 
-\\
-
 \begin{singlespace}
 \begin{tabularx}{\textwidth}{lX}
 Title of Dissertation: & LEGIBILITY MACHINES: \newline

@@ -103,11 +103,24 @@ contradictory, and subject to resistance. Perhaps it is more accurate to say
 that appraisal value is inherently tied to *practice* to avoid the utilitarian
 interpretation of the word "use".
 
-In principle this *use of use* and its application to archival appraisal is not
-unlike the concept of functional analysis, which is at the core of appraisal
-theories like macro-appraisal [@Cook:2004a] and documentation strategies
-[@Samuels:1991]. Here is how Cook describes this shift from the record to
-*function*:
+The consideration of the use of records has generally been the third rail of
+appraisal theory. For example in his 12 Principles of Appraisal, Richard Cox
+highlighted:
+
+> The archival appraisal selection criteria should rest not on unpredictable
+future research practices and trends but upon the more predictable sense of
+determining what are the salient and important features of contemporary
+institutions and society. [@Cox:1994, p. 24]
+
+Here the archivist is forbidden to think about the use of records, because it
+is difficult to predict the future. Instead the archivist is asked to document
+society, as if this is somehow easier. But the archivist does have access to
+the past, and the present--and does have some ideas about how records have been
+used, and can be used in the present. In principle the *use of use* and its
+application to archival appraisal is not unlike the concept of functional
+analysis, which is at the core of appraisal theories like macro-appraisal
+[@Cook:2004a] and documentation strategies [@Samuels:1991]. Here is how Cook
+describes this shift from the record to *function*:
 
 > ... macro-appraisal shifts the initial and major focus of appraisal from the
 > record--and any research characteristics or research values it may contain--to
