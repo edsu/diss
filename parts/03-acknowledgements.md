@@ -1,6 +1,6 @@
 \pagenumbering{roman}
 
-# Acknowledgements
+# Acknowledgments
 
 One of the difficulties of returning to university to pursue a PhD after
 decades of working in the field is that there are too many people to thank.
