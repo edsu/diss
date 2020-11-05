@@ -89,7 +89,7 @@ attribute of the record. Based on the research literature I thought archivists,
 if they were lucky, would have an appraisal policy, collection development
 policy, or at least some shared notion of what records the archive collected and
 why. I thought that new records were evaluated using this criteria, and
-a decision was  made to either accession or discard the records. I've already
+a decision was made to either accession or discard the records. I've already
 discussed how I was mistaken about appraisal decisions happening in a singular
 moment. However I was also mistaken about records having a specific value
 as an attribute. The value of records acquired from the web by the NSRL were bound up in how the records were to be used. An essentialist view of appraisal, where value is a property of records, is replaced by a relational one, where records obtain value based on their use.
@@ -146,8 +146,22 @@ university/student, hospital/patient, union/member, church/parishoner, etc. For
 Cook the focus on the *functions* inherent in these relations helps to put the
 question of records' value into the background. This move is especially
 important in order to factor out any guesswork about potential research value.
-However, notice how Cook positions the archivist on the outside looking in at
-the functions, or as I have called them, uses? In my field study with NIST
+
+Terry Eastwood, a contemporary of Cook, went further to explicitly name *use*
+as a fundamental consideration of appraisal. For Eastwood, attending to the use
+of records is important for ascertaining the context, genesis and purposes they
+served. However, this use is limited to their prior use. Consideration of their
+ongoing use in the archive isn't mentioned. Eastwood also sees the records as
+objective:
+
+> Though they are the product of observation, they come to exist as objects
+> in reality independent of thought. Though they be imperfect windows on the
+> reality from which they arise, their status as evidence and the fact that 
+> the archivist does not aim to interpret that evidence endows them with
+> objectivity for the archivist.
+
+Notice how both Eastwood and Cook position the archivist on the outside looking
+in at the functions, or as I have called them, uses? In my field study with NIST
 participants were making appraisal decisions because they were in the process of
 building an archive for use, these records had a particular function. Feminist
 and STS scholar would call this an example of the *God Trick*:
@@ -159,18 +173,17 @@ and STS scholar would call this an example of the *God Trick*:
 > power to see and not be seen, to represent while escaping representation.
 > [@Haraway:1988, p. 581]. 
 
-Cook and Samuels position the archivist as an analyst/judge one step removed
-from the site of record creation. As evidenced in the NSRL-Stanford
+Cook, Samuels and Eastwood position the archivist as an analyst/judge one step
+removed from the site of record creation. As evidenced in the NSRL-Stanford
 collaboration to archive the Cabrinety collection, even when use isn't
 completely understood, record creation is always an expression of
 power/knowledge. If some story of use, disuse or misuse isn't visible something
 is missing from the picture. At least Schellenberg owned that records are (in
-part) collected for use by researchers [@Schellenberg:1956]. Research isn't the
-only use for archival records, but it a significant one nonetheless. More
-importantly *use* recognizes that records are created for particular purposes.
-The value of records lies in an analysis of their genealogy of use, disuse,
-misuse, and queer use. Where we can imagine queer use as unexpected value that
-is discovered in research.
+part) collected for use by researchers [@Schellenberg:1956]. However, research
+is not the only use for archival records. More importantly *use* recognizes that
+records are created for particular purposes. The value of records lies in an
+analysis of their genealogy of use, disuse, misuse, and queer use. Where we can
+imagine queer use as unexpected value that is discovered in research.
 
 > The project of queering use does not aim to create distance from use but to
 > inhabit use all the more. We might respond to the problem of instrumentalism

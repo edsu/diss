@@ -169,7 +169,16 @@ previous interviews, and new phenomena. As the interviews proceeded, a file of
 general reflections helped determine recurring themes and scenarios as well as
 unusual cases that encountered.
 
-The process of inductive thematic analysis performed in this study relied on the use of field notes and personal memos [@Braun:2006]. The analysis began by reading all the field notes together, and then returning to do line by line coding. While coding was done without reference to an explicit theoretical framework, it was guided by our own interest in  appraisal theory as a sociotechnical system that entangles the archivist with the material of the web and automated agents. Interviewee responses that specifically mentioned the selection of particular web content, and the tools and collaborations they used to enact that selection were followed up on and explored through open discussion. This analysis yielded a set of themes that will now be described. 
+The process of inductive thematic analysis performed in this study relied on
+the use of field notes and personal memos [@Braun:2006]. The analysis began by
+reading all the field notes together, and then returning to do line by line
+coding. While coding was done without reference to an explicit theoretical
+framework, it was guided by my interest in appraisal theory as
+a sociotechnical system that entangles the archivist with the material of the
+web and automated agents. Interviewee responses that specifically mentioned the
+selection of particular web content, and the tools and collaborations they used
+to enact that selection were followed up on and explored through open
+discussion. This analysis yielded a set of themes that will now be described. 
 
 ## 4.2. Findings
 
