@@ -1,3 +1,16 @@
+---
+author: Ed Summers
+geometry: "left=1.0in,right=1.0in,top=1in,bottom=1in"
+fontsize: 12pt
+header-includes:
+  - \usepackage{setspace}
+  - \usepackage{fontspec}
+  - \usepackage{tabularx}
+  - \usepackage{ragged2e}
+  - \setmainfont{Times New Roman}
+  - \doublespacing
+---
+
 # Legibility Machines
 
 Thank you for taking time away from the news, and your Friday home offices.
@@ -43,7 +56,7 @@ screenshot and re-share deleted content, which can then circulate in
 a multitude of slightly altered forms to evade filtering by content moderation
 systems [@Baumgartner:2019]. Even media that is designed to be ephemeral can
 find new life on the web where it is mirrored and mutated as it achieves
-transmission [@Kirschenbaum:2016]. The web allows once fragmented collections
+transmission [@Kirschenbaum:2008]. The web allows once fragmented collections
 to be reassembled as part of virtual reuinfication projects [@Punzalan:2014].
 And for about 20 years or so web archiving projects have worked to collect
 regions of the web in order to re-present it back on the web in so called web
@@ -152,8 +165,6 @@ files, from all the software that NIST has collected since work on the NSRL
 began. These digital signatures are used to rapidly weed out or "DeNIST" known
 files when conducting forensics investigations.
 
-(NIST:2002 Sherlock image)
-
 As of June 2020, the publicly released NSRL RDS tracked over 250 million
 hashes for files that were part of 213,770 versions of 171,567 software
 packages, from approximately 70,000 publishers.
@@ -174,8 +185,6 @@ needs". Melissa, who is responsible for purchasing software for the NSRL,
 followed up by saying how she "always tries to think like a customer" and how
 "I've done a good job with the customers". This made me wonder who the *The
 Customer* was, and what it meant to "think like a customer"?
-
-![The Customer](images/customer.png){ height=45% }
 
 Team members generally agreed that "thinking like a customer" meant thinking
 like law enforcement using the RDS to "DeNIST" a set of computer files. In an
@@ -210,8 +219,6 @@ Hearing Mike describe this relationship, and how it evolved, made me realize
 how significant this network of relations between users of the RDS such as
 CAID, NIST, and software manufacturers were to the NSRL's web appraisal practices.
 
-![CAID and Games Archiving](images/caid-customer.png){ width=50% }
-
 ### Misuse: ByLock
 
 In another staff meeting James, one of the NSRL's technical analysts announced
@@ -234,15 +241,11 @@ alleged that individuals had used a mobile application called ByLock to
 coordinate the coup, and installation of the app on mobile devices was used as
 evidence to arrest individuals [@Gokce:2018].
 
-![Turkish Intelligence Forensics Diagram from @FoxIT:2017](images/bylock.png)
-
 ### Disuse: Cabrinety
 
 In 2012 the NSRL entered into a relationship with Stanford University to
 process collection of approximaely 50,000 software titles known as the
 Cabrinety Collection. This collection of software 
-
-![Age of Cabrinety Materials](images/cabrinety-years.png){ height=45% }
 
 Even four years the after the software was acquired it still had not been added
 to the RDS. There was very little pressure to add them since at ingest time in
