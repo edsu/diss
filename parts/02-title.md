@@ -17,9 +17,9 @@ Doctor of Philosophy \\
 
 Advisory Committee: \\
 Associate Professor Ricardo Punzalan, Chair \\
+Assistant Professor Katrina Fenlon \\
 Associate Professor Kari Kraus \\
 Associate Professor Wayne G. Lutters \\
-Assistant Professor Katrina Fenlon \\
 Professor Matthew Kirschenbaum, Dean's Representative
 
 \vspace*{\fill}
