@@ -1,0 +1,88 @@
+@namespace epub "http://www.idpf.org/2007/ops";
+
+body {
+  margin: 5%;
+  text-align: justify;
+  font-size: medium;
+}
+
+code {
+  font-family: monospace;
+}
+
+h2 {
+  text-align: left;
+}
+
+h3 {
+  text-align: left;
+}
+
+h4 {
+  text-align: left;
+}
+
+h5 {
+  text-align: left;
+}
+
+h6 {
+  text-align: left;
+}
+
+section[epub|type="titlepage"] {
+  height: 100vh;
+}
+
+section[epub|type="titlepage"] * {
+  text-align: center;
+}
+
+section[epub:type="titlepage"] h1.title { 
+  font-size: larger;
+}
+
+section p.author {
+  margin-top: 10vh;
+}
+
+section div.rights { 
+  margin-top: 50vh;
+  font-style: italic;
+}
+
+section[data-epub-type="forward"] {
+  display: flex;
+  flex-direction: column;
+  height: 80vh;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+}
+
+section[data-epub-type="forward"] p {
+  text-align: center;
+}
+
+ol.toc {
+  padding: 0;
+  margin-left: 1em;
+}
+
+ol.toc li {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+a.footnote-ref {
+  vertical-align: super;
+}
+
+em, em em em, em em em em em {
+  font-style: italic;
+}
+
+em em, em em em em {
+  font-style: normal;
+}
