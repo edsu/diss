@@ -86,3 +86,15 @@ em, em em em, em em em em em {
 em em, em em em em {
   font-style: normal;
 }
+
+figure img {
+  width: 80vw;
+}
+
+figure {
+  text-align: center;
+}
+
+figcaption {
+  text-align: center;
+}

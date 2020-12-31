@@ -79,7 +79,7 @@ language use, as it has moved from an examination of *what* practitioners talk
 about (the subject matter) to *how* they talk it (the performance). In this
 chapter I continue this zooming in process by examining appraisal activities in
 the context of a specific archival setting, the NSRL. The purpose of zooming in
-my analysis is to two fold: 1) to test the findings that were obtained
+my analysis is two fold: 1) to test the findings that were obtained
 previously during my interviews; and 2) to gain further insights into what
 sociotechnical processes work to shape appraisal practice. Participant
 observation and ethnography provide a method for understanding how practitioners
@@ -113,10 +113,10 @@ reflections on how work in the NSRL was being performed [@Emerson:2011].  As I
 will discuss in more detail below, after twenty years of activity the NSRL's
 work extends out into other departments in the Information Technology Lab (ITL)
 at NIST, and outside of NIST into digital forensics research, law enforcement
-and intelligence communities. Given this complexity it was essential for my
-fieldnotes to reflect on not only on what I observed, but also on my own
-thoughts and feelings as I learned more about the people and the work of the
-NSRL.
+and intelligence communities. Given this complexity, and my own partial
+understanding, it was essential for my fieldnotes to reflect not only what
+I observed, but also on my own thoughts and feelings as I learned more about
+the people and the work of the NSRL.
 
 While these jottings and field notes formed the bulk of my research data, I also
 conducted a series of unstructured interviews (N=12) with NSRL and NIST
@@ -2001,7 +2001,7 @@ disciplines of psychology and sociology:
 > codeability of person attributes. They act as norms, enabling the previously
 > aleatory and unpredictable complexities of human conduct to be charted and
 > judged in terms of conformity and deviation, to be coded and compared, ranked
-> and measured. [@Rose:1999; pp. 135-136]
+> and measured. @Rose:1999; pp. 135-136
 
 This analysis here can serve as a template for viewing the operations of
 appraisal in the NSRL. The "grid of codeability" directly speaks to the RDS and
