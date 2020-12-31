@@ -174,7 +174,7 @@ analysis is a continuous thread that runs throughout the life-cycle of a
 research project: in the research questions that are asked, in the sites that
 are chosen, in the data that is gathered, and in the analysis of the collected
 data itself [@Charmaz:2001 ; @Emerson:2011 p. 172]. So before diving into some
-ifs findings it is useful to briefly acknowledge the theoretical commitments
+findings it is useful to briefly acknowledge the theoretical commitments
 that guided the conception of this study.
 
 The principle theoretical commitment taken here is to a sociotechnical approach
@@ -205,12 +205,12 @@ practices that enable very specific social and political relations
 [@Schwartz:2002]. So in addition to diversifying the number of actors my study
 also recognizes the central importance of tracing these power relations,
 wherever they may lead. Given the central role of that computation plays in web
-archives it particularly important o understanding these power relations from
-the perspectives of Critical Data Studies [@boyd:2012] and Critical Algorithm
-Studies [@Seaver:2013]. These two theoretical perspectives employ critical
-theory (e.g. the study of governmentality) to investigate the social conditions
-of computation when it comes to rest as data, and when it is operationalized in
-processing (algorithms).
+archives it is particularly important to understand these power relations
+from the perspectives of Critical Data Studies [@boyd:2012] and Critical
+Algorithm Studies [@Seaver:2013]. These two theoretical perspectives employ
+critical theory (e.g. the study of governmentality) to investigate the social
+conditions of computation when it comes to rest as data, and when it is
+operationalized in processing (algorithms).
 
 Finally, my analysis has been greatly informed by the significance of narrative
 and story. These are the stories that my participants shared with me during my
@@ -382,20 +382,20 @@ station, where the NIST shuttle would pick me up along with other commuting
 employees, and drive for about 15 minutes along Route 370 to Route 270, and then
 onto the NIST campus. At the gates to NIST an armed security guard would enter
 the shuttle bus and individually check everyone's staff ID. If you didn't have
-an ID you would be ejected from the shuttle. After moving through the get the
-shuttle would circle along the north eastern portion of the 579 acre campus, and
-stop at Building 101, the Administration Building (Figure 4). I then had a ten
-minute walk south, to the Chemistry Building 222 (Figure 5), where the NSRL team
-had office space. It never stopped feeling incongruous to walk into the
-Chemistry Building because it was clear from the research posters I saw as I
-walked by people's offices that people were interested in things like network
+an ID you would be ejected from the shuttle. After moving through the gate the
+shuttle would circle along the north eastern portion of the 579 acre campus,
+and stop at Building 101, the Administration Building (Figure 4). I then had
+a ten minute walk south, to the Chemistry Building 222 (Figure 5), where the
+NSRL team had office space. It never stopped feeling incongruous to walk into
+the Chemistry Building because it was clear from the research posters I saw as
+I walked by people's offices that people were interested in things like network
 security, cyberinfrastructure, machine learning and quantum computing.
-Presumably the work on Chemistry continued on in another building. It felt as if
-the activities going on inside this building had exceeded or overflowed its
+Presumably the work on Chemistry continued on in another building. It felt as
+if the activities going on inside this building had exceeded or overflowed its
 name. No doubt the post World War 2, brutalist architecture contributed to this
 sense of time slippage. The entire NIST campus was designated a "Historic
-District" in 2016, and it clearly felt as if the buildings were frozen in a
-specific historical moment, like a museum piece.
+District" in 2016, and it clearly felt as if the buildings were frozen in
+a specific historical moment, like a museum piece.
 
 ![Administration Building 101](images/nist-admin-bldg.jpg){ height=45% }
 
