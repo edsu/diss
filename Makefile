@@ -11,8 +11,8 @@ pdf:
 
 epub:
 	pandoc \
-	    epub-parts/preface.md \
-	    epub-parts/abstract.md \
+	    parts/epub/preface.md \
+	    parts/epub/abstract.md \
 	    parts/04-acknowledgements.md \
 	    parts/05-quotes.md \
 	    parts/07-introduction.md \
@@ -24,7 +24,7 @@ epub:
 	    parts/13-conclusion.md \
 	    parts/14-appendices.md \
 	    parts/15-references.md \
-	  --css epub-parts/style.css \
+	  --css etc/epub.css \
 	  --standalone \
 	  --top-level-division=chapter \
 	  --metadata=title:"Legibility Machines" \
