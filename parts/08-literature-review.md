@@ -207,7 +207,7 @@ It is significant to note that this use of provenance as a heuristic for organiz
 Despite its partial application in France, respect des fonds proved popular as
 it spread to Belgium and the Netherlands, where it became part of the *Manual
 for the Arrangement and Description of Archives* [@Muller:1940], that was
-originally published in 1898. The so called *Dutch Manual* added to to the
+originally published in 1898. The so called *Dutch Manual* added to the
 concept of respect des fonds an additional principle named *original order*,
 which stated that the arrangement of records should be the same as the original
 organization. In their manual the authors Muller, Feith and Fruin describe how
@@ -255,10 +255,11 @@ secondary.
 Primary value was the value of the records to the record creator, in their
 active use. Secondary value on the other hand divided into two subtypes:
 *evidential* and *informational*. On the surface *evidential value* seems to be
-quite similar in principle to Jenkinson's interest in impartiality, authenticity
-and naturalness. However Schellberg makes clear that he is not concerned with
-the fidelity of the records as evidence, but with how well the records function
-as evidence of the organization and function of a particular government body:
+quite similar in principle to Jenkinson's interest in impartiality,
+authenticity and naturalness. However Schellenberg makes clear that he is not
+concerned with the fidelity of the records as evidence, but with how well the
+records function as evidence of the organization and function of a particular
+government body:
 
 > By evidential value I do not refer here to the value that 
 > inheres in public records because of the merit of the 
@@ -271,7 +272,7 @@ as evidence of the organization and function of a particular government body:
 
 Schellenberg outlined a variety of criteria to use for assessing the evidentiary
 value of records, which crucially links the volume of records with
-organizational hierarchy:
+organizational hierarchy (see figure 1).
 
 ![Personnel Distribution United States Civil Service Commission](images/schellenberg1.png)
 

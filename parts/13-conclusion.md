@@ -33,7 +33,8 @@ interested in my own conceptual crises; where what I learned or experienced
 challenged hidden assumptions of what appraisal in web archives is. Were there
 hidden givens, or unstated axioms of appraisal that I had at the beginning of my
 project which my findings compelled me to reevaluate? Fortunately the answer is
-yes, and that they fell roughly into the categories: time, ontology, and use.
+yes, and these controversies fell into three broad categories: time, ontology,
+and use.
 
 Recall the focus on *seed lists* in Chapter 4. I treated seed lists as singular
 artifacts that recorded appraisal decisions about web content. Seed lists are

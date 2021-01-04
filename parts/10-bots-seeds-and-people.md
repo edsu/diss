@@ -602,6 +602,6 @@ the web as part of a dense of network of actors that includes bots, record
 creators and the web instrastructures that operate in a flattened space. In the
 next chapter I will do a close reading of several of these interviews in order
 to study not only *what* they talk about when they talk about archiving the web
-but *how* they they talk about it.
+but *how* they talk about it.
 
 \pagebreak
