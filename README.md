@@ -19,4 +19,4 @@ Then, finally:
 
 [EPUB]: https://github.com/edsu/diss/raw/master/diss.epub
 [PDF]: https://github.com/edsu/diss/raw/master/diss.pdf
-[here]: https://drum.lib.umd.edu/handle/1903/26731
+[DRUM]: https://drum.lib.umd.edu/handle/1903/26731
