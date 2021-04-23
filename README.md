@@ -3,7 +3,7 @@
 Here's my completed dissertation in resplendent [PDF] and [EPUB] formats! Maybe
 this is heresy, but I have updated pieces based on feedback I've received
 post-defense. If you are a purist you can find the originally accepted version
-over in [DRUM] (umd.edu's institutional repository).
+over in [DRUM].
 
 You probably won't want to do this, but for the build:
 
