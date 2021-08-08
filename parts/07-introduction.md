@@ -65,7 +65,7 @@ archives collect (how they appraise). I suggest that our anxieties around what
 web archives remember and forget, can be understood by attending to the
 specific material practices of people working with memory and machines. Web
 archives are legibility projects [@Scott:1998] and calculative practices
-[@Rose:1999], that include, but but also escape normative definitions of web
+[@Rose:1999], that include, but also escape normative definitions of web
 archives as a specific technical apparatus. Recognizing the full shape of web
 archives through the theoretical lens of *governmentality* [@Foucault:2008
 ; @Lemke:2019] clarifies how the supposed value of archival records is not
