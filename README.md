@@ -1,6 +1,6 @@
-# Legibility Machines
-
 <img width="400" alt="Genealogies of Use" src="https://raw.githubusercontent.com/edsu/diss/master/images/cover.png">
+
+## Legibility Machines
 
 Here's my completed dissertation in resplendent [PDF] and [EPUB] formats! Maybe
 this is heresy, but I have updated pieces based on feedback I've received
