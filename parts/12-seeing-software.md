@@ -794,7 +794,7 @@ the game was popular.
 
 This SQL to create the table *STEAM_APP* designates the *popular* relation as a
 *Boolean* and *NOT NULL*. This means that popularity for every Steam game is
-either True (popular) or False (unpopular). Later when James was needing ot 
+either True (popular) or False (unpopular). Later when James was needing to 
 delete unpopular games to conserve space in NSRL's storage he proposed that
 the *NOT NULL* constraint be relaxed so that Steam games could be designated
 popular, unpopular or unknown. This was because new games sometimes lacked
@@ -820,7 +820,7 @@ legibility of Steam games in the RDS. This close examination of Steam purchasing
 is in fact only a fractal of the complex problems that the NSRL encountered as
 it collected games from other platforms such as Epic, Origin and Blizzard. While
 these platforms offer smooth web surfaces for acquiring software, and APIs for
-the acquisition of data, the logics of financial transactions and the
+the acquisition of data, the logistics of financial transactions and the
 proprietary clients needed for downloading content warped these surfaces, and
 required the NSRL to develop bespoke software and practices for managing them. 
 
@@ -1045,8 +1045,8 @@ Vulnerabilities Database, to refactor Juggernaut to make it more performant.
 Brian wasn't told explicitly what the problems were other than queries were
 taking several days to run. The query in question was the process for generating
 the RDS snapshot. In addition there were user facing web applications, such as
-*Collector* which are used to manage the NSRL's activities and had started to
-slow down and become responsive as they were in contention with the many
+*Collector*, which were used to manage the NSRL's activities and had started to
+slow down and become unresponsive as they were in contention with the many
 *unpacker*, *corper* and *hasher* processes that could be running at any given
 time. Brian didn't know the nature of the exact performance problems, but was
 able to normalize the database schema to improve performance:
@@ -1085,7 +1085,7 @@ software are effected by a vulnerability. Brian indicated that the research
 concluded that the NSRL database was not a good fit for SWID. He did not want to
 comment on the specifics of why it was not a good fit, but did suggest that I
 speak to another member of the team about the reason why it was rejected.
-Unfortunately that person did not respond to my interview request. However, In
+Unfortunately that person did not respond to my interview request. However, in
 the process of analyzing the RDS data I did happen upon some aspects of the RDS
 which I thought could explain at least part of the rationale for not coupling
 the SWID registry to the NSRL. In analyzing several of the metadata made
@@ -1229,7 +1229,7 @@ like law enforcement using a digital forensics tool to "DeNIST" a set of
 computer files. DeNIST was a term of art for applying the digital signatures in
 the RDS as a sieve to the digital signatures of files on some computer storage,
 in order to locate the unique files, or files that weren't part of known
-software packages. For customers performing DeNISTing the more generic files
+software packages. For customers performing DeNISTing, the more generic files
 they are able to eliminate from the investigation the better. Recall Figure 1,
 which continues to be used to demonstrate the value of the NSRL in slide
 presentations to this day. All the staff agreed, the best way to achieve the
@@ -1246,11 +1246,11 @@ As I spent time with NSRL staff I learned about the *Steering Committee*. This
 committee has met every 3 months for the past 20 years, to help guide and
 provide advice to the CFTT and NSRL projects. Membership on the committee is
 limited to federal law enforcement agencies. The first version of the NSRL
-website available in the Internet Archive collected on March 2, 2001 has a page
-for the Steering Committee listed in its menu. Unfortunately the page itself was
-not archived at this time. The next version that is available from April 1, 2001
+website available in the Internet Archive was collected on March 2, 2001 and has a 
+page for the Steering Committee listed in its menu. Unfortunately the page itself
+was not archived at that time. The next version that is available from April 1, 2001
 does not include the Steering Committee page, and the name only appears briefly
-with no details on the NSRL website after that. When I spoke with her Lara
+with no details on the NSRL website after that. When I spoke with her, Lara
 indicated that they needed to keep the committee membership limited to federal
 government to reduce the amount of time and effort it would take to organize the
 meetings:
@@ -1294,7 +1294,7 @@ few weeks later Mike followed up with the results of the test:
 This specific example demonstrates the direct connection between use of the RDS
 and the appraisal activities of the NSRL. Microsoft Windows is arguably one of
 the most popular pieces of software in the history of computing. And yet the
-question ifo whether or not Microsoft Windows has been ingested fully into
+question of whether or not Microsoft Windows has been ingested fully into
 the NSRL is constantly open to negotiation and revision.
 
 ### 6.2.7. CAID
@@ -1416,8 +1416,8 @@ are better conceived of as an *assemblage* with multiple shifting
 functionalities [@Deleuze:1987], rather than as a single fixed entity. A project
 of the size, scope and duration of the NSRL accumulates many stories of use over
 its lifetime. In this segment I explore a story of use that was hardly told at
-all, but which highlights a divergent, or perhaps even unwanted use (disuse),
-and turned out to be a use at all--at least in the conventional sense.
+all, but which highlights a divergent, unconvential, or perhaps even 
+unwanted use (disuse).
 
 A staff meeting a few months earlier was the scene for a much less auspicious
 announcement of NSRL use. It took place in the space of only about three
@@ -1468,13 +1468,13 @@ technology. Dual use is usually used to describe technology such as the Global
 Positioning System (GPS) which can be used for both civilian and military
 operations. However the NSRL RDS is dual-use in more ways than one. The RDS can
 be used to "DeNIST" computers, as demonstrated in the CAID use case where the
-RDS to focus their analysis of child pornography by removing known files. But
-the RDS can also be used to *identify* where software has been installed, by
+RDS helped to focus their analysis of child pornography by removing known files. 
+But the RDS can also be used to *identify* where software has been installed, by
 looking for fixity matches across a device's file storage. The RDS is dual use
 in another sense in that it can be used by the US government, and the Turkish
 intelligence services, and conceivably by criminals or terrorists themselves.
 NIST refers to the RDS as "neutral" but in actuality it is more accurate to
-describe it as ambivalent. Whatever the case it's a good reminder of Melvin
+describe it as ambivalent. Whatever the case, it's a good reminder of Melvin
 Kranzberg's insight that "Technology is neither good, nor bad; nor is it
 neutral." [@Kranzberg:1986].
 
@@ -1666,7 +1666,7 @@ here, but it's not a novel idea for forensics investigations.
 ![Age of Cabrinety Materials](images/cabrinety-years.png){ height=45% }
 
 Taking a step back from this paradox (the collection of rare objects when
-popular ones are needed) while recognizing the clear affective forces at work
+popular ones are needed) and recognizing the clear affective forces at work
 while acquiring and describing these historical materials helps to bring the
 NSRL's appraisal activities into sharper focus. The disciplinary fusion of
 forensics and archival science achieved in the NIST-Stanford collaboration made
